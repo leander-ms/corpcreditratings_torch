@@ -75,12 +75,11 @@ def import_data():
         'CC': 'Ungenügende Bonität', 'C': 'Ungenügende Bonität', 
         'D': 'Insolvent'
     }
-    # Apply the mapping to the 'Rating' column
+
     df['Rating Category'] = df['Rating'].map(rating_mapping)
     df = df[df['Rating Category'].notna()]
     df = df.loc[df['Rating Category']!="Insolvent"]
 
-    # Encode classes as integers
     encoder = LabelEncoder()
     df['Sector'] = encoder.fit_transform(df.Sector.values)
 
