@@ -1,0 +1,1377 @@
+Company;Rating;Company_source
+American States Water Co.;28,8;American States Water Co.
+Automatic Data Processing Inc.;13,8;Automatic Data Processing, Inc.
+Avnet Inc.;8,2;Avnet, Inc.
+California Water Service Co.;29,4;California Water Service Group
+Cardinal Health Inc.;14,9;Cardinal Health, Inc.
+Carpenter Technology Corp.;32,8;Carpenter Technology Corp.
+Companhia de Saneamento Basico do Estado de Sao Paulo;31,9;Companhia de Saneamento Basico do Estado de Sao Paulo SABESP
+Compass Group PLC;20,1;Compass Group Plc
+Diageo PLC;19,3;Diageo Plc
+Entergy Corp;26,8;Entergy Corp.
+FMC Technologies Inc.;31,6;FMC Corp.
+FedEx Corp.;20,0;FedEx Corp.
+Flowserve Corp.;23,2;Flowserve Corp.
+Fluor Corp.;32,9;Fluor Corp.
+Fresh Del Monte Produce Inc.;34,6;Fresh Del Monte Produce, Inc.
+General Mills Inc.;21,1;General Mills, Inc.
+Jabil Inc.;11,1;Jabil, Inc.
+Kennametal Inc.;22,0;Kennametal, Inc.
+Kohl's Corp.;12,5;Kohl's Corp.
+Koppers Holdings Inc.;26,8;Koppers Holdings, Inc.
+Korea Electric Power Corp.;33,4;Korea Electric Power Corp.
+Madison Gas & Electric Co.;25,4;MGE Energy, Inc.
+Micron Technology Inc.;18,2;Micron Technology, Inc.
+Microsoft Corp.;15,3;Microsoft Corp.
+National Grid Gas PLC;22,2;National Grid Plc
+National Grid USA;22,2;National Grid Plc
+Newmont USA Ltd.;20,5;Newmont Corp.
+Northwest Natural Gas Co.;23,5;Northwest Natural Holding Co.
+PNM Resources Inc;37,2;PNM Resources, Inc.
+Rent-A-Center Inc.;;
+Shaw Communications Inc.;26,8;Shaw Communications, Inc.
+Southern Copper Corp.;27,2;Southern Copper Corp.
+Southern Power Company;38,5;Southern Power Co.
+Teck Resources Ltd.;20,5;Teck Resources Limited
+TransAlta Corp.;29,2;TransAlta Corp.
+TransAlta Corporation;29,2;TransAlta Corp.
+Tutor Perini Corporation;38,0;Tutor Perini Corp.
+Universal Health Services Inc.;33,0;Universal Health Services, Inc.
+Vector Ltd.;21,5;Vector Ltd.
+ALLETE Inc.;34,2;ALLETE, Inc.
+Abbott Laboratories;24,8;Abbott Laboratories
+Air Products and Chemicals Inc.;12,3;Air Products & Chemicals, Inc.
+Alaska Air Group Inc.;26,0;Alaska Air Group, Inc.
+Alliant Energy Corp.;21,5;Alliant Energy Corp.
+American Axle & Manufacturing Holdings Inc.;16,1;American Axle & Manufacturing Holdings, Inc.
+AmerisourceBergen Corp.;12,6;AmerisourceBergen Corp.
+Amgen Inc.;22,0;Amgen, Inc.
+Amkor Technology Inc.;21,0;Amkor Technology, Inc.
+Amphenol Corp.;20,0;Amphenol Corp.
+Analog Devices Inc.;22,9;Analog Devices, Inc.
+Arrow Electronics Inc.;9,5;Arrow Electronics, Inc.
+AstraZeneca PLC;22,5;AstraZeneca PLC
+Atmos Energy Corp.;34,6;Atmos Energy Corp.
+AutoZone Inc.;11,0;AutoZone, Inc.
+Avery Dennison Corp.;16,1;Avery Dennison Corp.
+BCE Inc.;18,8;BCE, Inc.
+Baker Hughes Inc.;23,6;Baker Hughes Co.
+Ball Corporation;12,1;Ball Corp.
+Barrick Gold Corp.;33,3;Barrick Gold Corp.
+Beazer Homes USA Inc.;20,5;Beazer Homes USA, Inc.
+Belden Inc.;22,0;Belden, Inc.
+Bio-Rad Laboratories Inc.;17,4;Bio-Rad Laboratories, Inc.
+Biogen Inc.;22,2;Biogen, Inc.
+BorgWarner Inc.;12,6;BorgWarner, Inc.
+Braskem S.A.;24,2;Braskem SA
+Bristol-Myers Squibb Co.;22,7;Bristol Myers Squibb Co.
+Brookfield Asset Management Inc.;27,4;Brookfield Asset Management Ltd.
+CSX Corp.;21,9;CSX Corp.
+CVS Health Corporation;22,0;CVS Health Corp.
+Calumet Specialty Products Partners LP;47,2;Calumet Specialty Products Partners LP
+Cameco Corp.;27,9;Cameco Corp.
+Canadian Natural Resources Ltd.;29,8;Canadian Natural Resources Ltd.
+Caterpillar Inc.;34,2;Caterpillar, Inc.
+Cenovus Energy Inc.;39,3;Cenovus Energy, Inc.
+Central Garden & Pet Co.;13,9;Central Garden & Pet Co.
+Chevron Corporation;36,6;Chevron Corp.
+Ciena Corp.;15,3;Ciena Corp.
+Comcast Corp.;23,1;Comcast Corp.
+Commercial Vehicle Group Inc.;;
+Comstock Resources Inc.;45,4;Comstock Resources, Inc.
+ConocoPhillips;33,9;ConocoPhillips
+Constellation Brands Inc.;24,7;Constellation Brands, Inc.
+Cummins Inc.;19,3;Cummins, Inc.
+Cumulus Media Inc.;12,9;Cumulus Media, Inc.
+D.R. Horton Inc.;21,1;D.R. Horton, Inc.
+DENTSPLY SIRONA Inc.;14,9;Dentsply Sirona, Inc.
+DTE Energy Center LLC;29,8;DTE Energy Co.
+DTE Energy Co.;29,8;DTE Energy Co.
+Dana Incorporated;17,7;Dana, Inc.
+Danaher Corp.;11,9;Danaher Corp.
+Devon Energy Corp.;33,8;Devon Energy Corp.
+Douglas Dynamics LLC;30,5;Douglas Dynamics, Inc.
+Dover Corp.;25,9;Dover Corp.
+EOG Resources Inc.;34,2;EOG Resources, Inc.
+EQT Corporation;16,8;EQT AB
+Eastman Chemical Co.;25,3;Eastman Chemical Co.
+Eastman Kodak Co.;24,8;Eastman Kodak Co.
+Ecolab Inc.;19,9;Ecolab, Inc.
+Eli Lilly & Co.;24,3;Eli Lilly & Co.
+Emerson Electric Co.;28,4;Emerson Electric Co.
+Enbridge Inc.;20,9;Enbridge, Inc.
+Endo International PLC;41,6;Endo International Plc
+EnerSys;23,0;EnerSys
+Enterprise Products Operating LLC;35,4;Enterprise Products Operating LLC
+Equifax Inc.;23,2;Equifax, Inc.
+Equinix Inc.;11,3;Equinix, Inc.
+Exelon Corp.;22,9;Exelon Corp.
+Exxon Mobil Corp.;41,6;Exxon Mobil Corp.
+Fiserv Inc.;19,6;Fiserv, Inc.
+Gilead Sciences, Inc.;22,9;Gilead Sciences, Inc.
+GlaxoSmithKline Capital Inc.;22,6;GlaxoSmithKline Pharmaceuticals Ltd.
+Great Lakes Dredge & Dock Corp.;33,3;Great Lakes Dredge & Dock Corp.
+Greenbrier Companies Inc. (The);28,8;Greenbrier Cos., Inc.
+Greif Inc.;14,0;Greif, Inc.
+Griffon Corp.;31,3;Griffon Corp.
+Group 1 Automotive Inc.;13,4;Group 1 Automotive, Inc.
+Hanesbrands Inc.;14,2;Hanesbrands, Inc.
+Harley-Davidson Inc.;15,0;Harley-Davidson, Inc.
+Hershey Company (The);26,1;The Hershey Co.
+Honeywell International Inc.;28,6;Honeywell International, Inc.
+Hunt (J.B.) Transport Services Inc.;14,8;J.B. Hunt Transport Services, Inc.
+IDACORP Inc.;32,0;IDACORP, Inc.
+IDEX Corp.;29,3;IDEX Corp.
+ITT Corp.;28,7;ITT, Inc.
+Illinois Tool Works Inc.;25,3;Illinois Tool Works, Inc.
+Ingredion Incorporated;28,6;Ingredion, Inc.
+Intel Corp.;18,9;Intel Corp.
+Interpublic Group of Cos. Inc.;10,3;Interpublic Group of Cos., Inc.
+Iridium Communications Inc.;27,8;Iridium Communications, Inc.
+JetBlue Airways Corporation;28,0;JetBlue Airways Corp.
+Johnson & Johnson;24,0;Johnson & Johnson
+Johnson (S.C.) & Son Inc.;24,0;Johnson & Johnson
+Johnson Controls Inc.;14,4;Johnson Controls International Plc
+KB Home;14,0;KB Home
+Kimberly-Clark Corp.;28,5;Kimberly-Clark Corp.
+Kinross Gold Corp.;26,5;Kinross Gold Corp.
+Koninklijke Philips N.V.;22,7;Koninklijke Philips NV
+Lam Research Corp.;13,6;Lam Research Corp.
+Lamar Advertising Co.;16,5;Lamar Advertising Co.
+Louisiana-Pacific Corp.;22,2;Louisiana-Pacific Corp.
+M/I Homes, Inc.;23,8;M/I Homes, Inc.
+MGM Resorts International;24,8;MGM Resorts International
+Magellan Midstream Partners LP;29,9;Magellan Midstream Partners LP
+Marathon Oil Corporation;37,8;Marathon Oil Corp.
+Martin Marietta Materials Inc.;30,1;Martin Marietta Materials, Inc.
+MasTec Inc.;36,3;MasTec, Inc.
+McCormick & Co. Inc.;26,1;McCormick & Co., Inc.
+Merck Sharpe & Dohme Corp.;19,6;Merck KGaA
+Meritage Homes Corporation;12,1;Meritage Homes Corp.
+Meritor Inc.;;
+Methanex Corp.;24,3;Methanex Corp.
+Mobile TeleSystems PJSC;29,3;Mobile TeleSystems PJSC
+Mohawk Industries Inc.;14,3;Mohawk Industries, Inc.
+Mondelez International, Inc.;22,0;Mondelez International, Inc.
+Moody's Corporation;15,8;Moody's Corp.
+Mosaic Co. (The);33,6;The Mosaic Co.
+Motorola Solutions Inc.;13,1;Motorola Solutions, Inc.
+Mueller Water Products Inc.;33,0;Mueller Water Products, Inc.
+Murphy Oil Corp.;32,1;Murphy Oil Corp.
+NIKE Inc.;19,6;NIKE, Inc.
+Nabors Industries Inc.;27,3;Nabors Industries Ltd.
+National Fuel Gas Co.;39,3;National Fuel Gas Co.
+New York Times Co. (The);11,6;The New York Times Co.
+Newell Brands Inc.;13,7;Newell Brands, Inc.
+NextEra Energy Inc.;23,2;NextEra Energy, Inc.
+Nokia Corp.;10,3;Nokia Oyj
+Norfolk Southern Corp.;23,2;Norfolk Southern Corp.
+Northrop Grumman Corp.;27,5;Northrop Grumman Corp.
+Nucor Corp.;32,8;Nucor Corp.
+O'Reilly Automotive Inc.;12,1;O'Reilly Automotive, Inc.
+Olin Corp.;40,9;Olin Corp.
+Omnicom Group Inc.;16,3;Omnicom Group, Inc.
+Open Text Corporation;17,6;Open Text Corp.
+Otter Tail Corporation;42,1;Otter Tail Corp.
+PACCAR Inc.;27,6;PACCAR, Inc.
+PG&E Corp.;30,4;PG&E Corp.
+PLDT Inc.;27,2;PLDT, Inc.
+POSCO;34,3;POSCO Holdings Inc.
+PPG Industries Inc.;25,2;PPG Industries, Inc.
+Packaging Corp. of America;16,3;Packaging Corporation of America
+Peabody Energy Corp.;51,4;Peabody Energy Corp.
+Pearson PLC;6,0;Pearson Plc
+PepsiCo Inc.;15,5;PepsiCo, Inc.
+PerkinElmer Inc.;16,7;Revvity, Inc.
+Pioneer Natural Resources Co.;32,1;Pioneer Natural Resources Co.
+Pitney Bowes Inc.;7,4;Pitney Bowes, Inc.
+Plains All American Pipeline L.P.;23,9;Plains All American Pipeline LP
+Portland General Electric Co.;35,4;Portland General Electric Co.
+Precision Drilling Corp.;26,4;Precision Drilling Corp.
+Quest Diagnostics Inc.;21,2;Quest Diagnostics, Inc.
+Range Resources Corp.;44,9;Range Resources Corp.
+Rockwell Automation Inc.;17,7;Rockwell Automation, Inc.
+Rogers Communications Inc.;23,3;Rogers Communications, Inc.
+Royal Caribbean Cruises Ltd.;20,2;Royal Caribbean Group
+Ryman Hospitality Properties, Inc.;16,9;Ryman Hospitality Properties, Inc.
+SK Telecom Co. Ltd.;27,0;SK Telecom Co., Ltd.
+Sanofi;21,5;Sanofi
+Scholastic Corp.;15,0;Scholastic Corp.
+Scotts Miracle-Gro Co. (The);37,8;Scotts Miracle-Gro Co.
+Seagate Technology plc;12,5;Seagate Technology Holdings Plc
+Silgan Holdings Inc.;22,0;Silgan Holdings, Inc.
+Sinclair Broadcast Group Inc.;21,5;Sinclair Broadcast Group, Inc.
+Snap-on Inc.;30,5;Snap-On, Inc.
+Sonic Automotive Inc.;18,8;Sonic Automotive, Inc.
+Sonoco Products Co.;21,3;Sonoco Products Co.
+Sony Corp.;17,4;Sony Group Corp.
+Southwest Airlines Co.;30,7;Southwest Airlines Co.
+Southwest Gas Corp.;32,1;Southwest Gas Corp.
+Stanley Black & Decker Inc.;25,3;Stanley Black & Decker, Inc.
+Starbucks Corp.;24,7;Starbucks Corp.
+Target Corp.;14,4;Target Corp.
+Teleflex Incorporated;29,6;Teleflex, Inc.
+Telephone and Data Systems Inc.;36,9;Telephone & Data Systems, Inc.
+Tenet Healthcare Corp.;35,0;Tenet Healthcare Corp.
+Tenneco Inc.;13,2;Tenneco, Inc.
+Terex Corp.;26,6;Terex Corp.
+Thomson Reuters Corp.;14,6;Thomson Reuters Corp.
+Toll Brothers Inc.;22,6;Toll Brothers, Inc.
+TreeHouse Foods, Inc.;33,9;TreeHouse Foods, Inc.
+Trinity Industries Inc.;32,0;Trinity Industries, Inc.
+Triton Container International Ltd.;21,5;Triton Container International Ltd.
+Tupperware Brands Corporation;12,6;Tupperware Brands Corp.
+Unisys Corp.;20,2;Unisys Corp.
+United Rentals Inc.;16,9;United Rentals, Inc.
+United States Cellular Corporation;30,9;United States Cellular Corp.
+Vail Resorts Inc.;26,2;Vail Resorts, Inc.
+Valmont Industries Inc.;41,3;Valmont Industries, Inc.
+Verisk Analytics, Inc.;19,5;Verisk Analytics, Inc.
+Vishay Intertechnology Inc.;21,1;Vishay Intertechnology, Inc.
+Vulcan Materials Co.;29,1;Vulcan Materials Co.
+WEC Energy Group Inc.;27,5;WEC Energy Group, Inc.
+Williams Companies Inc. (The);21,8;The Williams Cos., Inc.
+Worthington Industries Inc.;32,6;Worthington Industries, Inc.
+Xcel Energy Inc.;26,5;Xcel Energy, Inc.
+York Water Co. (The);41,2;The York Water Co.
+Yum! Brands Inc.;20,3;Yum! Brands, Inc.
+3M Company;36,0;3M Co.
+AAR CORP.;34,0;AAR Corp.
+ABB Ltd;15,2;ABB Ltd.
+ABB Ltd.;15,2;ABB Ltd.
+ALLETE, Inc.;34,2;ALLETE, Inc.
+AMC Networks Inc.;25,4;AMC Networks, Inc.
+Acadia Healthcare Company, Inc.;28,9;Acadia Healthcare Co., Inc.
+Advance Auto Parts, Inc.;11,5;Advance Auto Parts, Inc.
+Advanced Micro Devices Inc.;15,4;Advanced Micro Devices, Inc.
+Advanced Micro Devices, Inc.;15,4;Advanced Micro Devices, Inc.
+Air Products and Chemicals, Inc.;12,3;Air Products & Chemicals, Inc.
+Alere Inc.;;
+AllScripts Healthcare Solutions, Inc.;;
+Allegheny Technologies Incorporated;;
+Alliance Laundry Systems LLC;;
+Alliant Energy Corporation;21,5;Alliant Energy Corp.
+Allison Transmission, Inc.;30,0;Allison Transmission Holdings, Inc.
+Alon USA Energy, Inc.;;
+Amazon.com Inc.;30,5;Amazon.com, Inc.
+Ameren Corporation;27,2;Ameren Corp.
+America Movil S.A.B. de C.V.;21,7;America Movil SAB de CV
+America Movil, S.A.B. de C.V.;21,7;America Movil SAB de CV
+American Axle & Manufacturing Holdings, Inc.;16,1;American Axle & Manufacturing Holdings, Inc.
+American Axle & Manufacturing, Inc.;16,1;American Axle & Manufacturing Holdings, Inc.
+American Electric Power Co. Inc.;26,1;American Electric Power Co., Inc.
+American Electric Power Company, Inc.;26,1;American Electric Power Co., Inc.
+American Water Works Company, Inc.;21,6;American Water Works Co., Inc.
+Ameriprise Financial, Inc;22,5;Ameriprise Financial, Inc.
+Amkor Technology, Inc.;21,0;Amkor Technology, Inc.
+Amphenol Corporation;20,0;Amphenol Corp.
+Analog Devices, Inc.;22,9;Analog Devices, Inc.
+Anheuser Busch InBev NV/SA;19,1;Anheuser-Busch InBev SA/NV
+Anheuser-Busch InBev SA/NV;19,1;Anheuser-Busch InBev SA/NV
+Apache Corporation;46,0;APA Corp.
+Archer Daniels Midland Co.;31,8;Archer-Daniels-Midland Co.
+Archer Daniels Midland Company;31,8;Archer-Daniels-Midland Co.
+Archer-Daniels-Midland Company;31,8;Archer-Daniels-Midland Co.
+Arcos Dorados Holdings Inc.;28,4;Arcos Dorados Holdings, Inc.
+Armstrong World Industries, Inc.;21,2;Armstrong World Industries, Inc.
+Arrow Electronics, Inc.;9,5;Arrow Electronics, Inc.
+Asbury Automotive Group, Inc.;14,2;Asbury Automotive Group, Inc.
+Ashland LLC;32,4;Ashland, Inc.
+Atmos Energy Corporation;34,6;Atmos Energy Corp.
+AutoZone, Inc.;11,0;AutoZone, Inc.
+Avery Dennison Corporation;16,1;Avery Dennison Corp.
+Avis Budget Group, Inc;13,4;Avis Budget Group, Inc.
+Avista Corp.;25,8;Avista Corp.
+Avnet, Inc.;8,2;Avnet, Inc.
+BRF S.A.;31,7;BRF SA
+Baidu Inc.;21,0;Baidu, Inc.
+Baidu, Inc.;21,0;Baidu, Inc.
+Baker Hughes, a GE company, LLC;23,6;Baker Hughes Co.
+Barrick Gold Corporation;33,3;Barrick Gold Corp.
+Baxter International Inc.;23,6;Baxter International, Inc.
+Beazer Homes USA, Inc.;20,5;Beazer Homes USA, Inc.
+Becton, Dickinson and Company;27,0;Becton, Dickinson & Co.
+Benchmark Electronics, Inc.;9,0;Benchmark Electronics, Inc.
+Berry Global Group Inc.;16,1;Berry Global Group, Inc.
+Big Lots Canada, Inc.;19,7;Big Lots, Inc.
+Black Hills Corporation;30,5;Black Hills Corp.
+Boise Cascade Company;22,6;Boise Cascade Co.
+Booz Allen Hamilton Inc.;17,0;Booz Allen Hamilton Holding Corp.
+Boston Scientific Corporation;26,4;Boston Scientific Corp.
+Boyd Gaming Corporation;24,5;Boyd Gaming Corp.
+Braskem International Ltd;24,2;Braskem SA
+Bright Horizons Family Solutions LLC;17,0;Bright Horizons Family Solutions, Inc.
+Brinker International, Inc.;23,9;Brinker International, Inc.
+Bristol-Myers Squibb Company;22,7;Bristol Myers Squibb Co.
+British American Tobacco p.l.c.;33,0;British American Tobacco plc
+British American Tobacco plc.;33,0;British American Tobacco plc
+Burlington Resources Finance Co.;;
+Burlington Resources Finance Company;;
+CSG Systems International, Inc.;22,4;CSG Systems International, Inc.
+CSX Corporation;21,9;CSX Corp.
+CVR Energy Inc.;48,6;CVR Energy, Inc.
+CVS Health;22,0;CVS Health Corp.
+Cabot Corp.;25,9;Cabot Corp.
+Cabot Corporation;25,9;Cabot Corp.
+Calumet Specialty Products Partners, L.P.;47,2;Calumet Specialty Products Partners LP
+Campbell Soup Company;23,5;Campbell Soup Co.
+Canadian National Railway Company;14,6;Canadian National Railway Co.
+Canadian Natural Resources Limited;29,8;Canadian Natural Resources Ltd.
+Canon Inc.;18,0;Canon, Inc.
+Cardinal Health, Inc.;14,9;Cardinal Health, Inc.
+Carlisle Companies Incorporated;22,8;Carlisle Cos., Inc.
+Carpenter Technology Corporation;32,8;Carpenter Technology Corp.
+Carriage Services, Inc.;21,3;Carriage Services, Inc.
+Carrols Restaurant Group, Inc.;30,3;Carrols Restaurant Group, Inc.
+Casella Waste Systems Inc.;22,2;Casella Waste Systems, Inc.
+Casella Waste Systems, Inc.;22,2;Casella Waste Systems, Inc.
+Cedar Fair L.P.;40,1;Cedar Fair LP
+Centene Corporation;19,9;Centene Corp.
+Central Garden & Pet Company;13,9;Central Garden & Pet Co.
+Century Aluminum Company;42,0;Century Aluminum Co.
+Charter Communications Operating, LLC;17,7;Charter Communications Operating LLC
+Cisco Systems, Inc.;12,3;Cisco Systems, Inc.
+Clearwater Paper Corporation;24,2;Clearwater Paper Corp.
+Cleveland-Cliffs Inc.;38,1;Cleveland-Cliffs, Inc.
+Coca-Cola European Partners US LLC;34,2;Coca-Cola Consolidated, Inc.
+Coca-Cola FEMSA, S.A.B. de C.V.;26,3;Coca-Cola FEMSA SAB de CV
+Coca-cola European Partners US, LLC;34,2;Coca-Cola Consolidated, Inc.
+Coeur Mining, Inc.;35,1;Coeur Mining, Inc.
+Colfax Corporation;;
+Columbus McKinnon Corporation;29,9;Columbus McKinnon Corp.
+Comcast Corporation;23,1;Comcast Corp.
+Commercial Vehicle Group, Inc.;;
+Community Health Systems, Inc.;33,9;Community Health Systems, Inc.
+Companhia de Saneamento Basico do Estado de Sao Paulo (SABESP);39,7;Companhia de Saneamento de Minas Gerais
+Compass Minerals International, Inc;38,5;Compass Minerals International, Inc.
+Comstock Resources, Inc.;45,4;Comstock Resources, Inc.
+Conagra Brands Inc.;30,8;Conagra Brands, Inc.
+Conagra Brands, Inc.;30,8;Conagra Brands, Inc.
+ConocoPhillips Company;33,9;ConocoPhillips
+Consolidated Communications Finance Co.;34,7;Consolidated Communications Holdings, Inc.
+Consolidated Communications Inc.;34,7;Consolidated Communications Holdings, Inc.
+Consolidated Communications, Inc.;34,7;Consolidated Communications Holdings, Inc.
+Constellation Brands, Inc.;24,7;Constellation Brands, Inc.
+Container Store Inc. (The);21,9;The Container Store Group, Inc.
+Corning Incorporated;18,2;Corning, Inc.
+Costco Wholesale Corp.;23,6;Costco Wholesale Corp.
+Costco Wholesale Corporation;23,6;Costco Wholesale Corp.
+Crown Castle International Corp.;9,9;Crown Castle, Inc.
+Crown Holdings, Inc.;10,4;Crown Holdings, Inc.
+D. R. Horton, Inc.;21,1;D.R. Horton, Inc.
+DTE Energy Center, LLC;29,8;DTE Energy Co.
+DXC Technology Company;15,3;DXC Technology Co.
+DaVita Inc.;22,6;DaVita, Inc.
+Danaher Corporation;11,9;Danaher Corp.
+Darden Restaurants, Inc.;27,5;Darden Restaurants, Inc.
+Darling Ingredients Inc.;20,8;Darling Ingredients, Inc.
+Delta Air Lines;30,1;Delta Air Lines, Inc.
+Delta Air Lines, Inc. (Old);30,1;Delta Air Lines, Inc.
+Deluxe Corporation;10,0;Deluxe Corp.
+Dentsply Sirona Inc.;14,9;Dentsply Sirona, Inc.
+Devon Energy Corporation;33,8;Devon Energy Corp.
+Douglas Dynamics, L.L.C.;30,5;Douglas Dynamics, Inc.
+Dover Corporation;25,9;Dover Corp.
+Duke Energy Corp.;27,0;Duke Energy Corp.
+Duke Energy Corporation;27,0;Duke Energy Corp.
+EMCOR Group, Inc.;35,0;EMCOR Group, Inc.
+EOG Resources Canada Inc.;34,2;EOG Resources, Inc.
+EOG Resources, Inc.;34,2;EOG Resources, Inc.
+Eastman Chemical Co;25,3;Eastman Chemical Co.
+Eastman Kodak Company (DIP);24,8;Eastman Kodak Co.
+Edgewell Personal Care Co.;25,3;Edgewell Personal Care Co.
+Edison International;27,5;Edison International
+Edison Mission Energy;27,5;Edison International
+Eli Lilly and Company;24,3;Eli Lilly & Co.
+Embraer Overseas Limited;37,0;Embraer SA
+Emerson Electric Company;28,4;Emerson Electric Co.
+Endo Health Solutions Inc.;41,6;Endo International Plc
+Enel Americas S.A.;21,4;Enel SpA
+Entergy Corporation;25,9;Entergy Corp.
+Enterprise Products Operating, LLC;35,4;Enterprise Products Operating LLC
+Entravision Communications Corporation;18,9;Entravision Communications Corp.
+Equinix, Inc.;11,3;Equinix, Inc.
+Exelon Corporation;22,9;Exelon Corp.
+Expedia, Inc.;27,7;Expedia Group, Inc.
+Express LLC;18,0;Express, Inc.
+FMC Corporation;31,6;FMC Corp.
+FMC Technologies, Inc.;31,6;FMC Corp.
+FTI Consulting Inc.;17,7;FTI Consulting, Inc.
+FTI Consulting, Inc.;17,7;FTI Consulting, Inc.
+Ferro Corporation;;
+Fidelity National Information Services Inc.;17,5;Fidelity National Information Services, Inc.
+Fiesta Restaurant Group, Inc.;;
+Fiserv, Inc.;19,6;Fiserv, Inc.
+Flex Ltd.;6,4;Flex Ltd.
+Flowers Foods, Inc.;38,9;Flowers Foods, Inc.
+Flowserve Corporation;23,2;Flowserve Corp.
+Fluor Corporation;32,9;Fluor Corp.
+Freeport-McMoRan Oil & Gas LLC;31,3;Freeport-McMoRan, Inc.
+Gap Inc. (The);15,6;Gap, Inc.
+Gap, Inc. (The);15,6;Gap, Inc.
+General Cable Corporation;;
+General Mills Canada, Inc.;21,1;General Mills, Inc.
+Gerdau S.A.;40,8;Gerdau SA
+Glatfelter (P.H.) Co.;19,4;Glatfelter Corp.
+GlaxoSmithKline Capital PLC;22,6;GlaxoSmithKline Pharmaceuticals Ltd.
+Gold Fields Limited;27,3;Gold Fields Ltd.
+Google Inc.;24,2;Alphabet, Inc.
+Google LLC;24,2;Alphabet, Inc.
+Gray Television, Inc.;17,6;Gray Television, Inc.
+Great Atlantic & Pacific Tea Co., Inc.(The);;
+Great Lakes Dredge & Dock Corporation;33,3;Great Lakes Dredge & Dock Corp.
+Greif, Inc.;14,0;Greif, Inc.
+Griffon Corporation;31,3;Griffon Corp.
+Grifols S.A.;18,1;Grifols SA
+Gulfport Energy Corporation;42,9;Gulfport Energy Corp.
+H&E Equipment Services Inc.;27,8;H&E Equipment Services, Inc.
+H&E Equipment Services, Inc.;27,8;H&E Equipment Services, Inc.
+HCA Healthcare, Inc.;28,8;HCA Healthcare, Inc.
+Halliburton Company;25,6;Halliburton Co.
+Hanesbrands, Inc.;14,2;Hanesbrands, Inc.
+Harley-Davidson, Inc.;15,0;Harley-Davidson, Inc.
+Harsco Corp.;19,4;Enviri Corp.
+Harsco Corporation;19,4;Enviri Corp.
+Hasbro, Inc.;7,3;Hasbro, Inc.
+Hess Corporation;33,1;Hess Corp.
+Hexcel Corporation;28,8;Hexcel Corp.
+Holly Energy Partners LP;36,3;Holly Energy Partners LP
+Holly Energy Partners, L.P.;36,3;Holly Energy Partners LP
+Hologic Inc.;25,0;Hologic, Inc.
+Hologic, Inc.;25,0;Hologic, Inc.
+Honda Motor Co., Ltd;28,7;Honda Motor Co., Ltd.
+Honeywell International, Inc.;28,6;Honeywell International, Inc.
+Hormel Foods Corp.;30,0;Hormel Foods Corp.
+Hormel Foods Corporation;30,0;Hormel Foods Corp.
+Houghton Mifflin Harcourt Publishers Inc.;;
+Houghton Mifflin Harcourt Publishers, Inc.;;
+Hovnanian Enterprises Inc.;23,0;Hovnanian Enterprises, Inc.
+Hovnanian Enterprises, Inc.;23,0;Hovnanian Enterprises, Inc.
+Humana Inc.;22,6;Humana AB
+Huntington Ingalls Industries, Inc.;35,6;Huntington Ingalls Industries, Inc.
+Huntsman Corporation;27,0;Huntsman Corp.
+IDACORP, Inc.;32,0;IDACORP, Inc.
+IDEX Corporation;29,3;IDEX Corp.
+IRSA Propiedades Comerciales S.A.;;
+Industrias Bachoco, S.A.B. de C.V.;45,2;Industrias Bachoco SAB de CV
+Ingles Markets, Incorporated;26,0;Ingles Markets, Inc.
+Intel Corporation;18,9;Intel Corp.
+Interface, Inc.;6,3;Interface, Inc.
+Interpublic Group of Companies, Inc.;10,3;Interpublic Group of Cos., Inc.
+Interpublic Group of Companies, Inc. (The);10,3;Interpublic Group of Cos., Inc.
+Intuit Inc.;16,4;Intuit, Inc.
+Iron Mountain Inc.;14,5;Iron Mountain, Inc.
+Iron Mountain Incorporated;14,5;Iron Mountain, Inc.
+Johnson Controls, Inc.;14,4;Johnson Controls International Plc
+Juniper Networks Inc.;15,1;Juniper Networks, Inc.
+Juniper Networks, Inc.;15,1;Juniper Networks, Inc.
+KAR Auction Services, Inc;18,0;KAR Auction Services, Inc.
+Kaiser Aluminum Corporation;29,8;Kaiser Aluminum Corp.
+Kinross Gold Corporation;26,5;Kinross Gold Corp.
+Kirby Corporation;20,5;Kirby Corp.
+Kohl's Corporation;12,5;Kohl's Corp.
+Kratos Defense and Security Solutions, Inc.;43,2;Kratos Defense & Security Solutions, Inc.
+Kronos Incorporated;24,8;Kronos Worldwide, Inc.
+Kronos Worldwide, Inc.;24,8;Kronos Worldwide, Inc.
+LKQ Corporation;11,1;LKQ Corp.
+Lamar Advertising Company;16,5;Lamar Advertising Co.
+Laredo Petroleum Inc.;;
+Laredo Petroleum, Inc.;;
+Las Vegas Sands Corp.;18,7;Las Vegas Sands Corp.
+Las Vegas Sands, LLC;18,7;Las Vegas Sands Corp.
+Lear Corporation;12,3;Lear Corp.
+Leidos Holdings, Inc.;11,6;Leidos Holdings, Inc.
+Lennar Corporation;25,4;Lennar Corp.
+Lennox International Inc.;19,6;Lennox International, Inc.
+Lions Gate Entertainment, Inc.;18,1;Lions Gate Entertainment Corp.
+Live Nation Entertainment, Inc.;21,6;Live Nation Entertainment, Inc.
+Lockheed Martin Corporation;30,2;Lockheed Martin Corp.
+Louisiana-Pacific Corporation;22,2;Louisiana-Pacific Corp.
+LyondellBasell Industries N.V.;20,7;LyondellBasell Industries NV
+M.D.C. Holdings, Inc.;20,8;M.D.C. Holdings, Inc.
+MDU Resources Group, Inc.;35,6;MDU Resources Group, Inc.
+MRC Global (US) Inc.;22,5;MRC Global, Inc.
+MSCI Inc.;16,1;MSCI, Inc.
+Madison Gas and Electric Company;25,4;MGE Energy, Inc.
+Magellan Midstream Partners, L.P.;29,9;Magellan Midstream Partners LP
+Magna International Inc.;18,8;Magna International, Inc.
+ManTech International Corporation;;
+ManpowerGroup Inc.;10,1;ManpowerGroup, Inc.
+Marathon Petroleum Corporation;30,5;Marathon Petroleum Corp.
+Martin Marietta Materials, Inc.;30,1;Martin Marietta Materials, Inc.
+Martin Midstream Partners L.P.;47,7;Martin Midstream Partners LP
+MasTec, Inc.;36,3;MasTec, Inc.
+Masco Corporation;22,6;Masco Corp.
+Masonite International Corporation;23,4;Masonite International Corp.
+McCormick & Company, Incorporated;26,1;McCormick & Co., Inc.
+McKesson Canada Corporation;14,7;McKesson Corp.
+McKesson Corporation;14,7;McKesson Corp.
+Merck Sharp & Dohme Corp.;19,6;Merck KGaA
+Meritor, Inc.;;
+Methanex Corporation;24,3;Methanex Corp.
+Micron Technology, Inc.;18,2;Micron Technology, Inc.
+Microsoft Corporation;15,3;Microsoft Corp.
+Millicom International Cellular S.A.;21,8;Millicom International Cellular SA
+Mohawk Industries, Inc.;14,3;Mohawk Industries, Inc.
+MoneyGram International, Inc.;25,1;MoneyGram International, Inc.
+Mosaic Company (The);33,6;The Mosaic Co.
+Motorola Solutions, Inc.;13,1;Motorola Solutions, Inc.
+Mueller Water Products, Inc.;33,0;Mueller Water Products, Inc.
+Murphy Oil Company Ltd.;32,1;Murphy Oil Corp.
+Murphy Oil Corporation;32,1;Murphy Oil Corp.
+NCR Corp.;19,8;NCR Corp.
+NCR Corporation;19,8;NCR Corp.
+NRG Energy Inc.;32,0;NRG Energy, Inc.
+NRG Energy, Inc.;32,0;NRG Energy, Inc.
+Nabors Industries, Inc.;27,3;Nabors Industries Ltd.
+National Grid North America Inc.;21,4;National Grid North America, Inc.
+National Grid PLC;22,2;National Grid Plc
+NetApp Inc.;15,3;NetApp, Inc.
+NetApp, Inc.;15,3;NetApp, Inc.
+Netflix, Inc.;16,4;Netflix, Inc.
+New York Times Company (The);11,6;The New York Times Co.
+NewMarket Corporation;36,1;NewMarket Corp.
+NextEra Energy, Inc.;23,2;NextEra Energy, Inc.
+Nielsen Holdings plc;;
+Nokia Corporation;10,3;Nokia Oyj
+Nordstrom, Inc.;20,6;Nordstrom, Inc.
+Norfolk Southern Corporation;23,2;Norfolk Southern Corp.
+Northrop Grumman Corporation;27,5;Northrop Grumman Corp.
+Northwest Natural Gas Company;23,5;Northwest Natural Holding Co.
+Novartis AG;16,8;Novartis AG
+Novo Nordisk A/S;24,2;Novo Nordisk A/S
+Nucor Corporation;32,8;Nucor Corp.
+O'Reilly Automotive Inc;12,1;O'Reilly Automotive, Inc.
+OGE Energy Corp.;31,8;OGE Energy Corp.
+ONEOK, Inc.;25,2;ONEOK, Inc.
+OSI Restaurant Partners, LLC;;
+Oasis Petroleum Inc.;;
+Occidental Petroleum Corp.;41,7;Occidental Petroleum Corp.
+Occidental Petroleum Corporation;41,7;Occidental Petroleum Corp.
+Oil States International, Inc.;26,3;Oil States International, Inc.
+Olin Corporation;40,9;Olin Corp.
+Omnicom Group, Inc.;16,3;Omnicom Group, Inc.
+Open Text Corp.;17,6;Open Text Corp.
+Oracle Corp.;13,9;Oracle Corp.
+Oracle Corporation;13,9;Oracle Corp.
+Oshkosh Corp.;19,0;Oshkosh Corp.
+Oshkosh Corporation;19,0;Oshkosh Corp.
+Oxford Industries, Inc.;16,7;Oxford Industries, Inc.
+PACCAR Inc;27,6;PACCAR, Inc.
+PDC Energy;47,4;PDC Energy, Inc.
+PG&E Corporation;30,4;PG&E Corp.
+PNM Resources, Inc.;37,2;PNM Resources, Inc.
+PPG Industries Securities, Inc.;25,2;PPG Industries, Inc.
+PPL Corporation;31,2;PPL Corp.
+PRA International;24,0;PRA Group, Inc.
+Pacific Life Insurance Company;23,0;Pacific LifeCorp.
+Peabody Energy Corporation;51,4;Peabody Energy Corp.
+Pearson plc;6,0;Pearson Plc
+Penn National Gaming, Inc. (Old);;
+Penske Automotive Group Inc.;12,6;Penske Automotive Group, Inc.
+Penske Automotive Group, Inc.;12,6;Penske Automotive Group, Inc.
+PepsiCo, Inc.;15,5;PepsiCo, Inc.
+PerkinElmer, Inc.;16,7;Revvity, Inc.
+PetroChina Company Limited;54,4;PetroChina Co., Ltd.
+Pfizer Inc.;24,6;Pfizer Inc.
+Phillips 66;35,5;Phillips 66
+Phillips 66 Company;35,5;Phillips 66
+Pilgrim's Pride Corporation;44,3;Pilgrim's Pride Corp.
+Pinnacle West Capital Corp.;30,8;Pinnacle West Capital Corp.
+Pioneer Energy Services Corp.;32,1;Pioneer Natural Resources Co.
+Pioneer Natural Resources Company;32,1;Pioneer Natural Resources Co.
+Portland General Electric Company;35,4;Portland General Electric Co.
+Post Holdings, Inc.;43,3;Post Holdings, Inc.
+Precision Drilling Corporation;26,4;Precision Drilling Corp.
+ProAssurance Casualty Company;32,0;ProAssurance Corp.
+Public Service Enterprise Group Incorporated;27,2;Public Service Enterprise Group, Inc.
+Quest Diagnostics Inc;21,2;Quest Diagnostics, Inc.
+Range Resources Corporation;44,9;Range Resources Corp.
+Rayonier Inc.;9,3;Rayonier, Inc.
+Rent-A-Center, Inc.;;
+Republic Services, Inc.;20,9;Republic Services, Inc.
+Rio Tinto Limited;31,6;Rio Tinto Ltd.
+Rite Aid Corporation;25,7;Rite Aid Corp.
+Rockwell Automation, Inc.;17,7;Rockwell Automation, Inc.
+Roper Technologies Inc.;20,4;Roper Technologies, Inc.
+Roper Technologies, Inc.;20,4;Roper Technologies, Inc.
+Royal Dutch Shell Plc;35,6;Shell Plc
+Ryerson Holding Corporation;37,6;Ryerson Holding Corp.
+SBA Telecommunications, Inc.;11,6;SBA Communications Corp.
+SK Telecom Co., Ltd;27,0;SK Telecom Co., Ltd.
+SS&C Technologies Holdings Europe S.a.r.l.;22,9;SS&C Technologies Holdings, Inc.
+STMicroelectronics Finance B.V.;16,4;STMicroelectronics NV
+Sally Beauty Holdings, Inc.;17,4;Sally Beauty Holdings, Inc.
+Sanmina Corporation;8,6;Sanmina Corp.
+Sanofi SA;21,5;Sanofi
+Sasol Limited;39,2;Sasol Ltd.
+Scholastic Corporation;15,0;Scholastic Corp.
+Scientific Games Corporation;31,7;Light & Wonder, Inc.
+Scientific Games International, Inc.;31,7;Light & Wonder, Inc.
+Scotts Miracle-Gro Company (The);37,8;Scotts Miracle-Gro Co.
+SeaWorld Parks & Entertainment, Inc.;29,8;SeaWorld Entertainment, Inc.
+Select Medical Holdings Corporation;31,9;Select Medical Holdings Corp.
+Sempra Energy;23,4;Sempra Energy
+Service Corporation International;16,6;Service Corp. International
+Sherwin-Williams Co.;29,1;The Sherwin-Williams Co.
+Sherwin-Williams Company (The);29,1;The Sherwin-Williams Co.
+Sinclair Broadcast Group, Inc.;21,5;Sinclair Broadcast Group, Inc.
+Snap-on Incorporated;30,5;Snap-On, Inc.
+Sonic Automotive, Inc.;18,8;Sonic Automotive, Inc.
+Sonoco Products Company;21,3;Sonoco Products Co.
+Sony Corporation;17,4;Sony Group Corp.
+Southern Copper Corporation;27,2;Southern Copper Corp.
+Southwest Gas Corporation;32,1;Southwest Gas Corp.
+Southwestern Energy Company;45,6;Southwestern Energy Co.
+Sprouts Farmers Market Holdings, LLC;18,2;Sprouts Farmers Market, Inc.
+Stanley Black & Decker, Inc.;25,3;Stanley Black & Decker, Inc.
+Starbucks Corporation;24,7;Starbucks Corp.
+Steel Dynamics, Inc.;33,0;Steel Dynamics, Inc.
+Steelcase Inc.;4,3;Steelcase, Inc.
+Stoneridge, Inc.;24,3;Stoneridge, Inc.
+Stryker Corporation;28,3;Stryker Corp.
+Suburban Propane Partners L.P.;42,2;Suburban Propane Partners LP
+Suburban Propane Partners, L.P.;42,2;Suburban Propane Partners LP
+Sysco Corporation;12,0;Sysco Corp.
+T-Mobile US Inc.;24,7;T-Mobile US, Inc.
+T-Mobile USA, Inc.;24,7;T-Mobile US, Inc.
+Takeda Pharmaceutical Company Limited;22,3;Takeda Pharmaceutical Co., Ltd.
+Target Corporation;14,4;Target Corp.
+TechnipFMC Plc;27,5;TechnipFMC plc
+Teck Resources Limited;20,5;Teck Resources Limited
+Telefonica Brasil S.A.;17,5;Telefonica Brasil SA
+Telefonica Chile S.A.;15,5;Telefónica SA
+Telefonica Finanzas Mexico, S.A. de C.V.;15,5;Telefónica SA
+Telefonica S.A.;15,5;Telefónica SA
+Telefonica SA;15,5;Telefónica SA
+Telephone and Data Systems, Inc.;36,9;Telephone & Data Systems, Inc.
+Tempur Sealy International Inc.;14,3;Tempur Sealy International, Inc.
+Terex Corporation;26,6;Terex Corp.
+Teva Pharmaceuticals USA, Inc.;29,7;Teva Pharmaceutical Industries Ltd.
+Texas Eastern Transmission L.P.;;
+Texas Gas Transmission LLC;;
+Texas Instruments Inc.;20,6;Texas Instruments Incorporated
+Texas Instruments, Incorporated;20,6;Texas Instruments Incorporated
+Textron Inc.;33,8;Textron, Inc.
+The AES Corporation;32,8;The AES Corp.
+The Manitowoc Company, Inc.;25,7;The Manitowoc Co., Inc.
+Thermo Fisher Scientific Inc.;13,6;Thermo Fisher Scientific, Inc.
+Thomson Reuters Corporation;14,6;Thomson Reuters Corp.
+Timken Company (The);22,3;The Timken Co.
+Titan International, Inc.;20,6;Titan International, Inc.
+TransDigm Inc.;38,7;TransDigm Group, Inc.
+TriMas Corporation;28,3;TriMas Corp.
+Trinity Industries, Inc.;32,0;Trinity Industries, Inc.
+Triumph Group, Inc.;32,9;Triumph Group, Inc.
+Union Pacific Corporation;23,6;Union Pacific Corp.
+Unisys Corporation;20,2;Unisys Corp.
+United Parcel Service Inc.;18,2;United Parcel Service, Inc.
+United Parcel Service, Inc.;18,2;United Parcel Service, Inc.
+UnitedHealth Group Incorporated;15,3;UnitedHealth Group, Inc.
+Universal Corporation;36,1;Universal Corp.
+Universal Health Services, Inc.;33,0;Universal Health Services, Inc.
+Universal Hospital Services Inc.;36,1;Universal Corp.
+V.F. Corporation;14,0;VF Corp.
+VEON Ltd.;37,6;VEON Ltd.
+Vail Resorts, Inc.;26,2;Vail Resorts, Inc.
+Vale S.A.;34,4;Vale SA
+Valmont Industries, Inc.;41,3;Valmont Industries, Inc.
+Vector Group Ltd.;35,2;Vector Group Ltd.
+Verint Systems Inc.;19,0;Verint Systems, Inc.
+ViaSat, Inc.;19,4;ViaSat, Inc.
+Vulcan Materials Company;29,1;Vulcan Materials Co.
+WEC Energy Group, Inc.;27,5;WEC Energy Group, Inc.
+WESCO International, Inc.;17,0;WESCO International, Inc.
+WPP plc;10,7;WPP Plc
+Wabash National Corporation;31,4;Wabash National Corp.
+Walgreens Boots Alliance, Inc;16,3;Walgreens Boots Alliance, Inc.
+Wendy's International, LLC;23,9;The Wendy's Co.
+Westinghouse Air Brake Technologies Corp.;23,3;Westinghouse Air Brake Technologies Corp.
+Westlake Chemical Corporation;29,2;Westlake Corp.
+Williams Companies, Inc. (The);21,8;The Williams Cos., Inc.
+Worthington Industries, Inc.;32,6;Worthington Industries, Inc.
+Wynn Resorts, Limited;25,7;Wynn Resorts Ltd.
+Xerox Corporation;16,0;Xerox Holdings Corp.
+Xylem Inc.;18,1;Xylem, Inc.
+YUM! Brands, Inc.;20,3;Yum! Brands, Inc.
+eBay Inc.;17,6;eBay, Inc.
+eBay, Inc.;17,6;eBay, Inc.
+iHeartCommunications, Inc.;15,7;iHeartMedia, Inc.
+3M COMPANY;36,0;3M Co.
+3M Co.;36,0;3M Co.
+ABB LTD;15,2;ABB Ltd.
+ABBOTT LABORATORIES;24,8;Abbott Laboratories
+ACI Worldwide Inc.;22,1;ACI Worldwide, Inc.
+ACI Worldwide, Inc.;22,1;ACI Worldwide, Inc.
+ADVANCE AUTO PARTS, INC.;11,5;Advance Auto Parts, Inc.
+AIR PRODUCTS AND CHEMICALS;;
+ALBANY INTERNATIONAL CORP.;22,5;Albany International Corp.
+ALLEGHENY TECHNOLOGIES;;
+ALLIANT ENERGY CORP;21,5;Alliant Energy Corp.
+AMEREN CORPORATION;27,2;Ameren Corp.
+AMERICA MOVIL SAB DE CV;21,7;America Movil SAB de CV
+AMERICAN AXLE & MANUFACTURING;16,1;American Axle & Manufacturing Holdings, Inc.
+AMERICAN ELECTRIC POWER;26,1;American Electric Power Co., Inc.
+AMERISOURCEBERGEN CORPORATION;12,6;AmerisourceBergen Corp.
+AMGEN INC.;22,0;Amgen, Inc.
+AMKOR TECHNOLOGY, INC;21,0;Amkor Technology, Inc.
+ANALOG DEVICES, INC;22,9;Analog Devices, Inc.
+ANHEUSER-BUSCH INBEV SA/NV;19,1;Anheuser-Busch InBev SA/NV
+APACHE CORPORATION;46,0;APA Corp.
+ARC Document Solutions, Inc;;
+ARCHER-DANIELS-MIDLAND COMPANY;31,8;Archer-Daniels-Midland Co.
+ARROW ELECTRONICS, INC;9,5;Arrow Electronics, Inc.
+ASBURY AUTOMOTIVE GROUP, INC;14,2;Asbury Automotive Group, Inc.
+ASML Holding N.V.;9,6;ASML Holding NV
+ATMOS ENERGY CORPORATION;34,6;Atmos Energy Corp.
+AUTOZONE, INC;11,0;AutoZone, Inc.
+AVERY DENNISON CORPORATION;16,1;Avery Dennison Corp.
+AVISTA CORPORATION;25,8;Avista Corp.
+AVNET, INC;8,2;Avnet, Inc.
+Algonquin Power & Utilities Corp.;21,3;Algonquin Power & Utilities Corp.
+Aluminum Corporation of China Limited;;
+Amcor Limited;17,6;Amcor Plc
+Amcor Ltd.;17,6;Amcor Plc
+Ameren Corp.;27,2;Ameren Corp.
+American Axle & Manufacturing Inc.;16,1;American Axle & Manufacturing Holdings, Inc.
+Anheuser-Busch InBev Finance Inc;19,1;Anheuser-Busch InBev SA/NV
+Autodesk, Inc.;16,3;Autodesk, Inc.
+BAKER HUGHES INCORPORATED;23,6;Baker Hughes Co.
+BALL CORPORATION;12,1;Ball Corp.
+BAXTER INTERNATIONAL INC;23,6;Baxter International, Inc.
+BCE INC;18,8;BCE, Inc.
+BEAZER HOMES USA, INC;20,5;Beazer Homes USA, Inc.
+BECTON, DICKINSON AND COMPANY;27,0;Becton, Dickinson & Co.
+BIOGEN INC.;22,2;Biogen, Inc.
+BORGWARNER INC;12,6;BorgWarner, Inc.
+BOSTON SCIENTIFIC CORPORATION;26,4;Boston Scientific Corp.
+BOYD GAMING CORPORATION;24,5;Boyd Gaming Corp.
+BRISTOL-MYERS SQUIBB COMPANY;22,7;Bristol Myers Squibb Co.
+Black Hills Corp.;30,5;Black Hills Corp.
+Boston Scientific Corp.;26,4;Boston Scientific Corp.
+Brinker International Inc.;23,9;Brinker International, Inc.
+Builders FirstSource, Inc.;31,6;Builders FirstSource, Inc.
+Burlington Stores, Inc.;16,2;Burlington Stores, Inc.
+CABOT CORPORATION;25,9;Cabot Corp.
+CACI International Inc.;16,9;CACI International, Inc.
+CACI International, Inc.;16,9;CACI International, Inc.
+CAMPBELL SOUP COMPANY;23,5;Campbell Soup Co.
+CANADIAN NATIONAL RAILWAY;14,6;Canadian National Railway Co.
+CARDINAL HEALTH, INC;14,9;Cardinal Health, Inc.
+CARPENTER TECHNOLOGY;32,8;Carpenter Technology Corp.
+CATERPILLAR INC;34,2;Caterpillar, Inc.
+CDW Corporation;9,2;CDW Corp.
+CDW LLC;9,2;CDW Corp.
+CENTRAL GARDEN & PET COMPANY;13,9;Central Garden & Pet Co.
+CENTURY ALUMINUM COMPANY;42,0;Century Aluminum Co.
+CHARTER COMMUNICATIONS, INC;24,7;Charter Communications, Inc.
+CHEMED CORPORATION;24,3;Chemed Corp.
+CHEVRON CORPORATION;36,6;Chevron Corp.
+CIENA CORPORATION;15,3;Ciena Corp.
+CINTAS CORPORATION;18,1;Cintas Corp.
+CISCO SYSTEMS, INC;12,3;Cisco Systems, Inc.
+COCA-COLA EUROPEAN PARTNERS;13,9;Coca-Cola Europacific Partners plc
+COCA-COLA FEMSA SAB DE CV;26,3;Coca-Cola FEMSA SAB de CV
+COEUR MINING, INC;35,1;Coeur Mining, Inc.
+COMMERCIAL METALS COMPANY;28,5;Commercial Metals Co.
+CONAGRA BRANDS, INC;30,8;Conagra Brands, Inc.
+CONOCOPHILLIPS;33,9;ConocoPhillips
+CONSTELLATION BRANDS, INC;24,7;Constellation Brands, Inc.
+CORECIVIC, INC.;28,0;CoreCivic, Inc.
+CORNING INC;18,2;Corning, Inc.
+COSTCO WHOLESALE CORPORATION;23,6;Costco Wholesale Corp.
+CROWN CASTLE INTERNATIONAL;9,9;Crown Castle, Inc.
+CROWN HOLDINGS, INC;10,4;Crown Holdings, Inc.
+CSX CORPORATION;21,9;CSX Corp.
+CUMMINS INC.;19,3;Cummins, Inc.
+CVS HEALTH CORPORATION;22,0;CVS Health Corp.
+Canadian National Railway Co.;14,6;Canadian National Railway Co.
+Carter's, Inc.;13,5;Carter's, Inc.
+Cedar Fair, L.P.;40,1;Cedar Fair LP
+Cementos Pacasmayo S.A.A.;;
+Century Aluminum Co.;42,0;Century Aluminum Co.
+Charles River Laboratories Int'l, Inc.;18,9;Charles River Laboratories International, Inc.
+China State Construction Int'l Holdings Ltd;46,7;China State Construction Engineering Corp. Ltd.
+Cisco Systems Inc.;12,3;Cisco Systems, Inc.
+CommScope Holding Company, Inc.;14,5;CommScope Holding Co., Inc.
+Commercial Metals Company;28,5;Commercial Metals Co.
+Community Health Systems Inc.;33,9;Community Health Systems, Inc.
+Companhia de San Bas do Estado de Sao Paulo;31,9;Companhia de Saneamento Basico do Estado de Sao Paulo SABESP
+Container Store Group, Inc. (The);21,9;The Container Store Group, Inc.
+Controladora Mabe, S.A. de C.V.;;
+Cooper-Standard Holdings Inc.;16,2;Cooper-Standard Holdings, Inc.
+Corning Inc.;18,2;Corning, Inc.
+Crown Castle GS III Corp.;9,9;Crown Castle, Inc.
+Cummins, Inc.;19,3;Cummins, Inc.
+D.R. HORTON, INC;21,1;D.R. Horton, Inc.
+D.R. Horton, Inc.;21,1;D.R. Horton, Inc.
+DANA INCORPORATED;17,7;Dana, Inc.
+DANAHER CORPORATION;11,9;Danaher Corp.
+DARDEN RESTAURANTS, INC;27,5;Darden Restaurants, Inc.
+DAVITA INC.;22,6;DaVita, Inc.
+DELTA AIR LINES, INC;30,1;Delta Air Lines, Inc.
+DELUXE CORPORATION;10,0;Deluxe Corp.
+DEVON ENERGY CORPORATION;33,8;Devon Energy Corp.
+DIAGEO PLC;19,3;Diageo Plc
+DOVER CORPORATION;25,9;Dover Corp.
+DTE ENERGY COMPANY;29,8;DTE Energy Co.
+DTE Energy Company;29,8;DTE Energy Co.
+DUKE ENERGY CORPORATION;27,0;Duke Energy Corp.
+Darden Restaurants Inc.;27,5;Darden Restaurants, Inc.
+Delta Air Lines Inc.;30,1;Delta Air Lines, Inc.
+DigitalGlobe, Inc.;;
+EASTMAN CHEMICAL COMPANY;25,3;Eastman Chemical Co.
+EBAY INC.;17,6;eBay, Inc.
+ECOLAB INC.;19,9;Ecolab, Inc.
+EDISON INTERNATIONAL;27,5;Edison International
+ELI LILLY AND COMPANY;24,3;Eli Lilly & Co.
+EMERSON ELECTRIC CO.;28,4;Emerson Electric Co.
+ENERGIZER HOLDINGS INC;18,9;Energizer Holdings, Inc.
+ENTERGY CORPORATION;25,9;Entergy Corp.
+ENTERPRISE PRODUCTS PARTNERS;21,5;Enterprise Products Partners LP
+EOG RESOURCES, INC;34,2;EOG Resources, Inc.
+EQT CORPORATION;16,8;EQT AB
+EQUIFAX INC;23,2;Equifax, Inc.
+EQUINIX, INC.;11,3;Equinix, Inc.
+EXELON CORPORATION;22,9;Exelon Corp.
+EXPEDIA, INC.;27,7;Expedia Group, Inc.
+EXXON MOBIL CORPORATION;41,6;Exxon Mobil Corp.
+Eastman Kodak Company;24,8;Eastman Kodak Co.
+Eldorado Gold Corp.;22,1;Eldorado Gold Corp.
+Entravision Communications Corp.;18,9;Entravision Communications Corp.
+FEDEX CORPORATION;20,0;FedEx Corp.
+FERRO CORPORATION;;
+FISERV, INC.;19,6;Fiserv, Inc.
+FLOWSERVE CORPORATION;23,2;Flowserve Corp.
+FLUOR CORPORATION;32,9;Fluor Corp.
+FMC CORPORATION;31,6;FMC Corp.
+FREEPORT-MCMORAN, INC;31,3;Freeport-McMoRan, Inc.
+FairPoint Communications, Inc.;;
+Ferro Corp.;;
+Fidelity National Information Services, Inc.;17,5;Fidelity National Information Services, Inc.
+Forum Energy Technologies, Inc.;;
+Freeport-McMoRan Inc.;31,3;Freeport-McMoRan, Inc.
+Fresenius Medical Care AG & Co. KGaA;14,4;Fresenius Medical Care AG & Co. KGaA
+GAP, INC;15,6;Gap, Inc.
+GENERAL CABLE CORPORATION;;
+GENERAL MILLS, INC;21,1;General Mills, Inc.
+GILEAD SCIENCES, INC;22,9;Gilead Sciences, Inc.
+GLAXOSMITHKLINE PLC;22,6;GlaxoSmithKline Pharmaceuticals Ltd.
+General Mills, Inc.;21,1;General Mills, Inc.
+GlaxoSmithKline plc;22,6;GlaxoSmithKline Pharmaceuticals Ltd.
+Global One Real Estate Investment Corporation;18,6;Global One Real Estate Investment Corp.
+Global Ship Lease, Inc.;;
+H&R BLOCK, INC;14,8;H&R Block, Inc.
+HALLIBURTON COMPANY;25,6;Halliburton Co.
+HANESBRANDS INC.;14,2;Hanesbrands, Inc.
+HARLEY-DAVIDSON, INC;15,0;Harley-Davidson, Inc.
+HARSCO CORPORATION;;
+HASBRO, INC;7,3;Hasbro, Inc.
+HCA HEALTHCARE INC;28,8;HCA Healthcare, Inc.
+HERSHEY COMPANY;26,1;The Hershey Co.
+HESS CORPORATION;33,1;Hess Corp.
+HONEYWELL INTERNATIONAL INC;28,6;Honeywell International, Inc.
+HORMEL FOODS CORPORATION;30,0;Hormel Foods Corp.
+HOVNANIAN ENTERPRISES, INC;23,0;Hovnanian Enterprises, Inc.
+Hasbro Inc.;7,3;Hasbro, Inc.
+Hub International Limited;24,4;Hub Group, Inc.
+HudBay Minerals, Inc.;28,5;Hudbay Minerals, Inc.
+Huntsman International LLC;27,0;Huntsman Corp.
+IDACORP, INC;32,0;IDACORP, Inc.
+IDEX CORPORATION;29,3;IDEX Corp.
+ILLINOIS TOOL WORKS INC;25,3;Illinois Tool Works, Inc.
+INGREDION INCORPORATED;28,6;Ingredion, Inc.
+INTEL CORPORATION;18,9;Intel Corp.
+INTERDIGITAL, INC;21,7;InterDigital, Inc.
+INTERPUBLIC GROUP OF;10,3;Interpublic Group of Cos., Inc.
+IRON MOUNTAIN, INC;14,5;Iron Mountain, Inc.
+Information Resources, Inc.;26,5;Information Services Group, Inc.
+Ingles Markets Inc.;26,0;Ingles Markets, Inc.
+JABIL INC;11,1;Jabil, Inc.
+JETBLUE AIRWAYS CORPORATION;28,0;JetBlue Airways Corp.
+JOHNSON & JOHNSON;24,0;Johnson & Johnson
+JOHNSON CONTROLS INTERNATIONAL;14,4;Johnson Controls International Plc
+JUNIPER NETWORKS, INC.;15,1;Juniper Networks, Inc.
+Jazz Pharmaceuticals, Inc.;26,3;Jazz Pharmaceuticals Plc
+KENNAMETAL INC.;22,0;Kennametal, Inc.
+KIMBERLY-CLARK CORPORATION;28,5;Kimberly-Clark Corp.
+KOHL'S CORPORATION;12,5;Kohl's Corp.
+KONINKLIJKE PHILIPS NV;22,7;Koninklijke Philips NV
+Korea Electric Power Corporation;33,4;Korea Electric Power Corp.
+LEAR CORPORATION;12,3;Lear Corp.
+LOCKHEED MARTIN CORPORATION;30,2;Lockheed Martin Corp.
+LSB Industries Inc.;47,6;LSB Industries, Inc.
+LSB Industries, Inc.;47,6;LSB Industries, Inc.
+Las Vegas Sands LLC;18,7;Las Vegas Sands Corp.
+Lear Corp.;12,3;Lear Corp.
+Lions Gate Entertainment Corp.;18,1;Lions Gate Entertainment Corp.
+M.D.C. HOLDINGS, INC;20,8;M.D.C. Holdings, Inc.
+M/I HOMES, INC;23,8;M/I Homes, Inc.
+MAGELLAN MIDSTREAM PARTNERS,;29,9;Magellan Midstream Partners LP
+MANPOWERGROUP INC.;10,1;ManpowerGroup, Inc.
+MARATHON OIL CORPORATION;37,8;Marathon Oil Corp.
+MARTIN MARIETTA MATERIALS,;30,1;Martin Marietta Materials, Inc.
+MASTEC, INC;36,3;MasTec, Inc.
+MCCORMICK & COMPANY;26,1;McCormick & Co., Inc.
+MCKESSON CORPORATION;14,7;McKesson Corp.
+MDU Resources Group Inc.;35,6;MDU Resources Group, Inc.
+MERITOR, INC;;
+MGM RESORTS INTERNATIONAL;24,8;MGM Resorts International
+MICRON TECHNOLOGY, INC;18,2;Micron Technology, Inc.
+MICROSOFT CORPORATION;15,3;Microsoft Corp.
+MOHAWK INDUSTRIES, INC.;14,3;Mohawk Industries, Inc.
+MONDELEZ INTERNATIONAL, INC;22,0;Mondelez International, Inc.
+MOSAIC COMPANY;33,6;The Mosaic Co.
+MOTOROLA SOLUTIONS, INC;13,1;Motorola Solutions, Inc.
+MURPHY OIL CORPORATION;32,1;Murphy Oil Corp.
+Mercer International Inc.;21,4;Mercer International, Inc.
+Michael Baker International LLC;23,6;Baker Hughes Co.
+Michael Baker International, LLC;23,6;Baker Hughes Co.
+Murphy Oil USA Inc.;32,1;Murphy Oil Corp.
+NABORS INDUSTRIES LTD;27,3;Nabors Industries Ltd.
+NASDAQ, INC;13,1;Nasdaq, Inc.
+NATIONAL FUEL GAS COMPANY;39,3;National Fuel Gas Co.
+NEKTAR THERAPEUTICS;37,7;Nektar Therapeutics
+NEWELL BRANDS INC;13,7;Newell Brands, Inc.
+NEXTERA ENERGY, INC.;23,2;NextEra Energy, Inc.
+NGL Energy Partners LP;46,2;NGL Energy Partners LP
+NORDSTROM, INC;20,6;Nordstrom, Inc.
+NORFOLK SOUTHERN CORPORATION;23,2;Norfolk Southern Corp.
+NORTHROP GRUMMAN CORPORATION;27,5;Northrop Grumman Corp.
+NOVARTIS AG;16,8;Novartis AG
+NRG ENERGY, INC.;32,0;NRG Energy, Inc.
+NUCOR CORPORATION;32,8;Nucor Corp.
+NVIDIA Corp.;13,6;NVIDIA Corp.
+National Grid Gas Plc;22,2;National Grid Plc
+National Grid Gas plc;22,2;National Grid Plc
+Netflix Inc;16,4;Netflix, Inc.
+OCCIDENTAL PETROLEUM;41,7;Occidental Petroleum Corp.
+OGE ENERGY CORP.;31,8;OGE Energy Corp.
+OLIN CORPORATION;40,9;Olin Corp.
+OMNICOM GROUP INC;16,3;Omnicom Group, Inc.
+ONEOK, INC.;25,2;ONEOK, Inc.
+ORACLE CORPORATION;13,9;Oracle Corp.
+OTTER TAIL CORPORATION;42,1;Otter Tail Corp.
+OWENS & MINOR, INC;15,6;Owens & Minor, Inc.
+PACCAR INC;27,6;PACCAR, Inc.
+PEABODY ENERGY CORPORATION;51,4;Peabody Energy Corp.
+PEPSICO, INC;15,5;PepsiCo, Inc.
+PERKINELMER, INC;16,7;Revvity, Inc.
+PFIZER INC.;24,6;Pfizer Inc.
+PG&E CORPORATION;30,4;PG&E Corp.
+PILGRIM'S PRIDE CORPORATION;44,3;Pilgrim's Pride Corp.
+PINNACLE WEST CAPITAL;30,8;Pinnacle West Capital Corp.
+PIONEER NATURAL RESOURCES;32,1;Pioneer Natural Resources Co.
+PITNEY BOWES INC;7,4;Pitney Bowes, Inc.
+PLAINS ALL AMERICAN PIPELINE,;23,9;Plains All American Pipeline LP
+PPG INDUSTRIES, INC;25,2;PPG Industries, Inc.
+PUBLIC SERVICE ENTERPRISE;27,2;Public Service Enterprise Group, Inc.
+PVH CORP;16,0;PVH Corp.
+PVH Corp.;16,0;PVH Corp.
+Penn National Gaming, Inc.;;
+Public Service Enterprise Group Inc.;27,2;Public Service Enterprise Group, Inc.
+QUEST DIAGNOSTICS INCORPORATED;21,2;Quest Diagnostics, Inc.
+RANGE RESOURCES CORPORATION;44,9;Range Resources Corp.
+RAYONIER INC.;9,3;Rayonier, Inc.
+REPUBLIC SERVICES, INC;20,9;Republic Services, Inc.
+RIO TINTO PLC;31,6;Rio Tinto Ltd.
+RITE AID CORPORATION;25,7;Rite Aid Corp.
+ROCKWELL AUTOMATION, INC;17,7;Rockwell Automation, Inc.
+ROPER TECHNOLOGIES, INC;20,4;Roper Technologies, Inc.
+Republic Services Inc.;20,9;Republic Services, Inc.
+Rogers Communications, Inc.;23,3;Rogers Communications, Inc.
+SBA Communications Corp.;11,6;SBA Communications Corp.
+SCOTTS MIRACLE-GRO COMPANY;37,8;Scotts Miracle-Gro Co.
+SEMPRA ENERGY;23,4;Sempra Energy
+SERVICE CORPORATION;;
+SHAW COMMUNICATIONS INC. CLASS;26,8;Shaw Communications, Inc.
+SHERWIN-WILLIAMS COMPANY;29,1;The Sherwin-Williams Co.
+SILGAN HOLDINGS INC;22,0;Silgan Holdings, Inc.
+SINCLAIR BROADCAST GROUP, INC.;21,5;Sinclair Broadcast Group, Inc.
+SK Telecom Co., Ltd.;27,0;SK Telecom Co., Ltd.
+SNAP-ON INCORPORATED;30,5;Snap-On, Inc.
+SONOCO PRODUCTS COMPANY;21,3;Sonoco Products Co.
+SONY CORP.;17,4;Sony Group Corp.
+SOUTHERN COPPER CORPORATION;27,2;Southern Copper Corp.
+SOUTHWEST AIRLINES CO;30,7;Southwest Airlines Co.
+SOUTHWEST GAS HOLDINGS, INC.;36,3;Southwest Gas Holdings, Inc.
+STANLEY BLACK & DECKER, INC.;25,3;Stanley Black & Decker, Inc.
+STARBUCKS CORPORATION;24,7;Starbucks Corp.
+STEEL DYNAMICS, INC;33,0;Steel Dynamics, Inc.
+STMicroelectronics N.V.;16,4;STMicroelectronics NV
+STONEMOR PARTNERS L.P.;;
+STRYKER CORPORATION;28,3;Stryker Corp.
+SUNPOWER CORPORATION;23,8;SunPower Corp.
+SYSCO CORPORATION;12,0;Sysco Corp.
+Scientific Games Corp.;31,7;Light & Wonder, Inc.
+Scientific Games International Inc.;31,7;Light & Wonder, Inc.
+SeaWorld Parks & Entertainment Inc.;29,8;SeaWorld Entertainment, Inc.
+Service Corp. International;;
+Sportsman's Warehouse, Inc.;21,7;Sportsman's Warehouse Holdings, Inc.
+StoneMor Partners L.P.;;
+T-MOBILE US, INC;24,7;T-Mobile US, Inc.
+TARGET CORPORATION;14,4;Target Corp.
+TE CONNECTIVITY LTD;14,8;TE Connectivity Ltd.
+TEGNA Inc.;14,7;TEGNA, Inc.
+TELEFONICA SA;15,5;Telefónica SA
+TENET HEALTHCARE CORPORATION;35,0;Tenet Healthcare Corp.
+TENNECO INC;13,2;Tenneco, Inc.
+TERADYNE INC;17,1;Teradyne, Inc.
+TEREX CORPORATION;26,6;Terex Corp.
+TEXAS INSTRUMENTS INCORPORATED;20,6;Texas Instruments Incorporated
+TEXTRON INC;33,8;Textron, Inc.
+THERMO FISHER SCIENTIFIC INC.;13,6;Thermo Fisher Scientific, Inc.
+THOMSON REUTERS CORPORATION;14,6;Thomson Reuters Corp.
+TIMKEN COMPANY;22,3;The Timken Co.
+TMS International Corp.;;
+TMS International Corporation;;
+TOLL BROTHERS, INC;22,6;Toll Brothers, Inc.
+TRANSALTA CORPORATION;29,2;TransAlta Corp.
+TRINITY INDUSTRIES, INC;32,0;Trinity Industries, Inc.
+TUPPERWARE BRANDS CORPORATION;12,6;Tupperware Brands Corp.
+Taiwan Semiconductor Manufacturing Co Ltd;14,2;Taiwan Semiconductor Manufacturing Co., Ltd.
+Tenet Healthcare Corporation;35,0;Tenet Healthcare Corp.
+Tenneco, Inc.;13,2;Tenneco, Inc.
+Teva Pharmaceutical Industries Limited;29,7;Teva Pharmaceutical Industries Ltd.
+Teva Pharmaceutical Industries Ltd;29,7;Teva Pharmaceutical Industries Ltd.
+Texas Eastern Transmission LP;;
+Timken Co. (The);22,3;The Timken Co.
+Titan International Inc.;20,6;Titan International, Inc.
+TriMas Company LLC;28,3;TriMas Corp.
+Trimas Company LLC;28,3;TriMas Corp.
+Triumph Group Inc.;32,9;Triumph Group, Inc.
+UGI CORPORATION;31,7;UGI Corp.
+UNION PACIFIC CORPORATION;23,6;Union Pacific Corp.
+UNISYS CORPORATION;20,2;Unisys Corp.
+UNITED PARCEL SERVICE, INC;18,2;United Parcel Service, Inc.
+UNITED RENTALS, INC;16,9;United Rentals, Inc.
+UNITED STATES CELLULAR;30,9;United States Cellular Corp.
+UNITEDHEALTH GROUP;15,3;UnitedHealth Group, Inc.
+UNIVERSAL CORP;36,1;Universal Corp.
+UNIVERSAL HEALTH SERVICES,;33,0;Universal Health Services, Inc.
+Union Pacific Corp.;23,6;Union Pacific Corp.
+V.F. CORPORATION;14,0;VF Corp.
+VECTOR GROUP LTD;35,2;Vector Group Ltd.
+VERISK ANALYTICS INC;19,5;Verisk Analytics, Inc.
+VERTEX PHARMACEUTICALS;22,7;Vertex Pharmaceuticals, Inc.
+VULCAN MATERIALS COMPANY;29,1;Vulcan Materials Co.
+WALGREENS BOOTS ALLIANCE INC;16,3;Walgreens Boots Alliance, Inc.
+WEATHERFORD INTERNATIONAL PLC;21,9;Weatherford International plc
+WEC ENERGY GROUP INC;27,5;WEC Energy Group, Inc.
+WENDY'S COMPANY;23,9;The Wendy's Co.
+WILLIAMS COMPANIES INC.;21,8;The Williams Cos., Inc.
+WORTHINGTON INDUSTRIES, INC;32,6;Worthington Industries, Inc.
+WPP PLC;10,7;WPP Plc
+WYNN RESORTS, LIMITED;25,7;Wynn Resorts Ltd.
+XCEL ENERGY INC.;26,5;Xcel Energy, Inc.
+XEROX CORPORATION;16,0;Xerox Holdings Corp.
+YUM! BRANDS, INC.;20,3;Yum! Brands, Inc.
+Zoetis Inc.;18,8;Zoetis, Inc.
+AECOM;30,2;AECOM
+ALBEMARLE CORPORATION;26,6;Albemarle Corp.
+AMAZON.COM, INC;30,5;Amazon.com, Inc.
+AMERICAN STATES WATER COMPANY;28,8;American States Water Co.
+AMERICAN WATER WORKS COMPANY,;21,6;American Water Works Co., Inc.
+Acadia Healthcare Company Inc.;28,9;Acadia Healthcare Co., Inc.
+Accenture plc;9,8;Accenture Plc
+Albemarle Corp.;26,6;Albemarle Corp.
+Albemarle Corporation;26,6;Albemarle Corp.
+Alibaba Group Holding Limited;26,5;Alibaba Group Holding Ltd.
+Allegiant Travel Company;37,7;Allegiant Travel Co.
+Amazon.com, Inc.;30,5;Amazon.com, Inc.
+AmerisourceBergen Corporation;12,6;AmerisourceBergen Corp.
+Apple Inc.;17,2;Apple, Inc.
+Asbury Automotive Group Inc.;14,2;Asbury Automotive Group, Inc.
+Atkore International Inc.;22,0;Atkore, Inc.
+BIO-RAD LABORATORIES, INC;17,4;Bio-Rad Laboratories, Inc.
+BIOMARIN PHARMACEUTICAL INC.;25,7;BioMarin Pharmaceutical, Inc.
+BOTTOMLINE TECHNOLOGIES;;
+BROOKDALE SENIOR LIVING INC;33,9;Brookdale Senior Living, Inc.
+Becton Dickinson & Co.;27,0;Becton, Dickinson & Co.
+Berry Global Inc.;16,1;Berry Global Group, Inc.
+Bio-Rad Laboratories, Inc.;17,4;Bio-Rad Laboratories, Inc.
+BorgWarner, Inc.;12,6;BorgWarner, Inc.
+CAESARS ENTERTAINMENT;25,7;Caesars Entertainment, Inc.
+CARLISLE COMPANIES;22,8;Carlisle Cos., Inc.
+CHESAPEAKE ENERGY CORPORATION;44,0;Chesapeake Energy Corp.
+Caesars Entertainment Operating Company, Inc.;25,7;Caesars Entertainment, Inc.
+Caesars Entertainment Resort Properties Finance Inc.;25,7;Caesars Entertainment, Inc.
+Charter Communications Inc.;24,7;Charter Communications, Inc.
+Charter Communications, Inc.;24,7;Charter Communications, Inc.
+Chesapeake Energy Corp.;44,0;Chesapeake Energy Corp.
+Chesapeake Energy Corporation;44,0;Chesapeake Energy Corp.
+China State Construction International Holdings Limited;37,8;China State Construction International Holdings Ltd.
+Churchill Downs Inc.;30,2;Churchill Downs, Inc.
+Cogent Communications Finance, Inc.;30,4;Cogent Communications Holdings, Inc.
+Compass Minerals International Inc.;38,5;Compass Minerals International, Inc.
+Consolidated Communications Finance II Co.;34,7;Consolidated Communications Holdings, Inc.
+Cooper Companies, Inc. (The);19,4;The Cooper Cos., Inc.
+Delta Air Lines, Inc.;30,1;Delta Air Lines, Inc.
+Diamondback Energy, Inc.;37,8;Diamondback Energy, Inc.
+ENPRO INDUSTRIES, INC.;30,1;EnPro Industries, Inc.
+Eastman Chemical Company;25,3;Eastman Chemical Co.
+Edgewell Personal Care;25,3;Edgewell Personal Care Co.
+EnPro Industries, Inc.;30,1;EnPro Industries, Inc.
+Exxon Mobil Corporation;41,6;Exxon Mobil Corp.
+FMC Corp.;31,6;FMC Corp.
+FleetCor Technologies Operating Co., LLC;17,9;FLEETCOR Technologies, Inc.
+FleetCor Technologies Operating Company LLC;17,9;FLEETCOR Technologies, Inc.
+Galapagos Holding S.A.;29,5;Galapagos NV
+GameStop Corp.;19,3;GameStop Corp.
+General Cable Corp.;;
+GlaxoSmithKline Capital Plc;22,6;GlaxoSmithKline Pharmaceuticals Ltd.
+Global Partners LP;45,3;Global Partners LP
+Great Plains Energy Inc.;;
+Great Plains Energy Incorporated;;
+Green Plains Inc.;23,4;Green Plains, Inc.
+HILTON WORLDWIDE HOLDINGS INC;17,9;Hilton Worldwide Holdings, Inc.
+Hemisphere Media Holdings, LLC;;
+Hess Corp;33,1;Hess Corp.
+Huntington Ingalls Industries Inc.;35,6;Huntington Ingalls Industries, Inc.
+INTUIT INC;16,4;Intuit, Inc.
+Illumina, Inc.;11,0;Illumina, Inc.
+Iron Mountain Information Management, LLC;14,5;Iron Mountain, Inc.
+JetBlue Airways Corp.;28,0;JetBlue Airways Corp.
+Johnson (S.C.) & Son, Inc.;24,0;Johnson & Johnson
+KRAFT HEINZ COMPANY;34,1;The Kraft Heinz Co.
+Kosmos Energy Ltd.;31,6;Kosmos Energy Ltd.
+Kosmos Energy, Ltd.;31,6;Kosmos Energy Ltd.
+Kratos Defense & Security Solutions Inc.;43,2;Kratos Defense & Security Solutions, Inc.
+Kronos Worldwide Inc.;24,8;Kronos Worldwide, Inc.
+LENNOX INTERNATIONAL INC.;19,6;Lennox International, Inc.
+LIBERTY MEDIA CORP.;19,3;Liberty Media Corp.
+Lee Enterprises, Inc.;;
+Lee Enterprises, Incorporated;;
+Live Nation Entertainment Inc.;21,6;Live Nation Entertainment, Inc.
+LyondellBasell Investment LLC;20,7;LyondellBasell Industries NV
+MICROCHIP TECHNOLOGY;31,8;Microchip Technology, Inc.
+McKesson Canada;14,7;McKesson Corp.
+McKesson Corp.;14,7;McKesson Corp.
+Minerals Technologies Inc.;21,4;Minerals Technologies, Inc.
+Murphy Oil USA, Inc.;32,1;Murphy Oil Corp.
+NATIONAL GRID PLC;22,2;National Grid Plc
+NORTHWEST NATURAL GAS COMPANY;23,5;Northwest Natural Holding Co.
+NVR Inc.;20,3;NVR, Inc.
+NXP Semiconductors N.V.;19,8;NXP Semiconductors NV
+National Fuel Gas Company;39,3;National Fuel Gas Co.
+O'REILLY AUTOMOTIVE, INC.;12,1;O'Reilly Automotive, Inc.
+OASIS PETROLEUM INC;;
+ONE Gas, Inc;28,6;ONE Gas, Inc.
+ONE Gas, Inc.;28,6;ONE Gas, Inc.
+OSI Restaurant Partners LLC;;
+Orange;22,7;Orange SA
+PHILLIPS 66;35,5;Phillips 66
+PNM RESOURCES, INC.;37,2;PNM Resources, Inc.
+PPL CORPORATION;31,2;PPL Corp.
+Phibro Animal Health Corporation;34,3;Phibro Animal Health Corp.
+Pinnacle West Capital Corporation;30,8;Pinnacle West Capital Corp.
+Post Holdings Inc.;43,3;Post Holdings, Inc.
+RELX Inc.;5,5;RELX Plc
+Ross Stores Inc.;18,2;Ross Stores, Inc.
+SAP SE;12,7;SAP SE
+SONY CORPORATION;17,4;Sony Group Corp.
+Sanmina Corp.;8,6;Sanmina Corp.
+Seagate Technology HDD Holdings;12,5;Seagate Technology Holdings Plc
+Southwestern Energy Co.;45,6;Southwestern Energy Co.
+Steel Dynamics Inc.;33,0;Steel Dynamics, Inc.
+SunCoke Energy, Inc.;38,4;SunCoke Energy, Inc.
+Sysco Corp.;12,0;Sysco Corp.
+TRANSALTA CORP;29,2;TransAlta Corp.
+Tata Motors Limited;27,5;Tata Motors Ltd.
+Tata Motors Ltd.;27,5;Tata Motors Ltd.
+Telecom Argentina S.A.;27,5;Telecom Argentina SA
+Texas Gas Transmission, LLC;;
+Trimble Inc.;12,4;Trimble, Inc.
+Twitter, Inc.;;
+Tyson Foods Inc.;35,9;Tyson Foods, Inc.
+Tyson Foods, Inc.;35,9;Tyson Foods, Inc.
+WPP CP LLC;10,7;WPP Plc
+Walgreens Boots Alliance, Inc.;16,3;Walgreens Boots Alliance, Inc.
+Wausau Paper Corp.;;
+Weatherford International LLC;21,9;Weatherford International plc
+Wolverine World Wide Inc;18,7;Wolverine World Wide, Inc.
+AAR Corp.;34,0;AAR Corp.
+ANDERSONS INC.;;
+Activision Blizzard, Inc.;16,1;Activision Blizzard, Inc.
+Allegheny Technologies Inc.;;
+Allegion PLC;21,8;Allegion Plc
+Ambev S.A.;21,5;Ambev SA
+America Movil B.V.;21,7;America Movil SAB de CV
+America Movil, B.V.;21,7;America Movil SAB de CV
+Anheuser-Busch InBev Finance Inc.;19,1;Anheuser-Busch InBev SA/NV
+Anheuser-Busch InBev Finance, Inc;19,1;Anheuser-Busch InBev SA/NV
+Apache Corp.;46,0;APA Corp.
+Avago Technologies Cayman Holdings Ltd.;;
+Axalta Coating Systems Ltd.;27,1;Axalta Coating Systems Ltd.
+Baker Hughes, A GE Company LLC;23,6;Baker Hughes Co.
+Beacon Roofing Supply Inc.;25,6;Beacon Roofing Supply, Inc.
+Bed Bath & Beyond Inc.;19,1;Bed Bath & Beyond, Inc.
+Brookfield Renewable Partners L.P.;17,8;Brookfield Renewable Partners LP
+Brookfield Renewable Partners ULC;17,8;Brookfield Renewable Partners LP
+Builders FirstSource Inc.;31,6;Builders FirstSource, Inc.
+CDK Global Inc.;;
+CNH INDUSTRIAL NV;17,0;CNH Industrial NV
+CNH Industrial N.V.;17,0;CNH Industrial NV
+CPI Card Group Inc.;19,6;CPI Card Group, Inc.
+CSG Systems International Inc.;22,4;CSG Systems International, Inc.
+California Resources Corp.;37,2;California Resources Corp.
+California Resources Corporation;37,2;California Resources Corp.
+Capital Product Partners L.P.;;
+Charles River Laboratories International Inc.;18,9;Charles River Laboratories International, Inc.
+Colfax Corp.;;
+CommScope Technologies LLC;;
+Dell Inc.;16,3;Dell Technologies, Inc.
+Dell International LLC;16,3;Dell Technologies, Inc.
+Diebold Nixdorf Inc.;18,5;Diebold Nixdorf, Inc.
+Dollar Tree, Inc.;15,0;Dollar Tree, Inc.
+ENDO INTERNATIONAL PLC;41,6;Endo International Plc
+Entegris, Inc.;20,1;Entegris, Inc.
+Fair Isaac Corporation;20,3;Fair Isaac Corp.
+Fortune Brands Home & Security, Inc.;24,2;Fortune Brands Innovations, Inc.
+Group 1 Automotive, Inc.;13,4;Group 1 Automotive, Inc.
+Gulfport Energy Corp.;42,9;Gulfport Energy Corp.
+HERTZ GLOBAL HOLDINGS, INC;18,3;Hertz Global Holdings, Inc.
+Halliburton Co.;25,6;Halliburton Co.
+Hewlett Packard Enterprise;10,7;Hewlett Packard Enterprise Co.
+Hewlett Packard Enterprise Co.;10,7;Hewlett Packard Enterprise Co.
+Hexcel Corp.;28,8;Hexcel Corp.
+Horizon Global Corp.;;
+INTERNATIONAL SPEEDWAY;40,6;International Seaways, Inc.
+INTREPID POTASH, INC.;45,1;Intrepid Potash, Inc.
+Jazz Pharmaceuticals Ireland Ltd;26,3;Jazz Pharmaceuticals Plc
+Keysight Technologies Inc.;7,6;Keysight Technologies, Inc.
+Kraft Heinz Canada ULC;34,1;The Kraft Heinz Co.
+Lattice Semiconductor Corporation;18,4;Lattice Semiconductor Corp.
+Lockheed Martin Corp.;30,2;Lockheed Martin Corp.
+MACOM Technology Solutions Holdings, Inc.;41,8;MACOM Technology Solutions Holdings, Inc.
+MASCO CORPORATION;22,6;Masco Corp.
+MPLX LP;24,8;MPLX LP
+Macquarie Infrastructure Corporation;14,8;Macquarie University
+Masonite International Corp.;23,4;Masonite International Corp.
+Matador Resources Company;56,6;Matador Resources Co.
+Microchip Technology Inc.;31,8;Microchip Technology, Inc.
+NIKE, Inc.;19,6;NIKE, Inc.
+NN, Inc.;;
+National Air Cargo Holdings, Inc.;;
+Oceaneering International Inc.;33,6;Oceaneering International, Inc.
+Olin Canada ULC;40,9;Olin Corp.
+Orion Engineered Carbons GmbH;;
+Owens & Minor Inc.;15,6;Owens & Minor, Inc.
+PATTERSON COMPANIES, INC;19,1;Patterson Cos., Inc.
+PBF Logistics LP;;
+PDL BIOPHARMA, INC.;;
+PPG Industries, Inc.;25,2;PPG Industries, Inc.
+Performance Food Group Inc.;17,1;Performance Food Group Co.
+Pilgrim's Pride Corp.;44,3;Pilgrim's Pride Corp.
+Rio Tinto PLC;31,6;Rio Tinto Ltd.
+Rite Aid Corp.;25,7;Rite Aid Corp.
+Royal Dutch Shell PLC;35,6;Shell Plc
+SMART Modular Technologies (Global), Inc.;22,9;SMART Global Holdings, Inc.
+SS&C Technologies Holdings Europe S.A.R.L.;22,9;SS&C Technologies Holdings, Inc.
+Spirit Airlines Inc.;35,9;Spirit Airlines, Inc.
+Stericycle Inc.;27,3;Stericycle, Inc.
+SunOpta Inc.;34,7;SunOpta, Inc.
+TTM Technologies, Inc.;8,0;TTM Technologies, Inc.
+Targa Resources Corp.;33,1;Targa Resources Corp.
+Teva Capital Services Switzerland GMBH;;
+Teva Pharmaceutical Industries Ltd.;29,7;Teva Pharmaceutical Industries Ltd.
+Townsquare Media, Inc.;20,8;Townsquare Media, Inc.
+Turkcell Iletisim Hizmetleri A.S;23,5;TURKCELL Iletisim Hizmetleri AS
+Turkcell Iletisim Hizmetleri A.S.;23,5;TURKCELL Iletisim Hizmetleri AS
+United States Cellular Corp.;30,9;United States Cellular Corp.
+United Utilities Water Finance PLC;11,5;United Utilities Group Plc
+United Utilities Water Finance Plc;11,5;United Utilities Group Plc
+Vista Outdoor Inc.;15,7;Vista Outdoor, Inc.
+Wabash National Corp.;31,4;Wabash National Corp.
+Waste Connections Inc.;22,0;Waste Connections, Inc.
+Waste Connections, Inc.;22,0;Waste Connections, Inc.
+Wendy's Company;23,9;The Wendy's Co.
+Wendy's International Inc.;23,9;The Wendy's Co.
+Wolverine World Wide Inc.;18,7;Wolverine World Wide, Inc.
+XPO Logistics, Inc.;;
+Yamana Gold Inc.;20,4;Yamana Gold, Inc.
+Zebra Technologies Corp.;12,1;Zebra Technologies Corp.
+AVANGRID, Inc.;22,6;Avangrid, Inc.
+Adient US LLC;16,1;Adient plc
+Allegion plc;21,8;Allegion Plc
+Alphabet Inc.;24,2;Alphabet, Inc.
+Altera Corp.;;
+Altera Corporation;;
+Amneal Pharmaceuticals LLC;39,9;Amneal Pharmaceuticals, Inc.
+Armstrong World Industries Inc.;21,2;Armstrong World Industries, Inc.
+Autoliv Inc.;17,0;Autoliv, Inc.
+Axalta Coating Systems LLC;27,1;Axalta Coating Systems Ltd.
+Axalta Coating Systems, LLC;27,1;Axalta Coating Systems Ltd.
+Black Hills Gas LLC;30,5;Black Hills Corp.
+Boyd Gaming Corp.;24,5;Boyd Gaming Corp.
+British American Tobacco PLC;33,0;British American Tobacco plc
+Burlington Resources, Inc.;;
+CDK Global, Inc.;;
+CIENA Corporation;15,3;Ciena Corp.
+CLEARWATER;24,2;Clearwater Paper Corp.
+CONSOL Energy Inc.;42,8;CONSOL Energy, Inc.
+CVR Partners, LP;;
+Cadence Design Systems Inc.;12,0;Cadence Design Systems, Inc.
+Cadence Design Systems, Inc.;12,0;Cadence Design Systems, Inc.
+Caesars Entertainment Resort Properties, LLC;25,7;Caesars Entertainment, Inc.
+Callon Petroleum Co.;39,6;Callon Petroleum Co.
+Callon Petroleum Company;39,6;Callon Petroleum Co.
+Cameco Corporation;27,9;Cameco Corp.
+Casa Systems, Inc.;24,7;Casa Systems, Inc.
+Coca-Cola European Partners PLC;34,2;Coca-Cola Consolidated, Inc.
+Coca-Cola European Partners plc;34,2;Coca-Cola Consolidated, Inc.
+Compass Minerals Canada Corp.;38,5;Compass Minerals International, Inc.
+Consol Energy Inc.;42,8;CONSOL Energy, Inc.
+Constellation Brands Canada, Inc.;24,7;Constellation Brands, Inc.
+CoreCivic, Inc.;28,0;CoreCivic, Inc.
+Coty Inc.;26,6;Coty, Inc.
+DISH Network Corp.;21,4;DISH Network Corp.
+Diamondback Energy Inc;37,8;Diamondback Energy, Inc.
+Diebold Nixdorf, Inc.;18,5;Diebold Nixdorf, Inc.
+Dish Network Corporation;21,4;DISH Network Corp.
+Donnelley Financial Solutions, Inc.;19,6;Donnelley Financial Solutions, Inc.
+Eldorado Gold Corporation;22,1;Eldorado Gold Corp.
+Energizer Holdings, Inc.;18,9;Energizer Holdings, Inc.
+Entegris Inc.;20,1;Entegris, Inc.
+Enviva Partners, LP;25,0;Enviva, Inc.
+FedEx Corporation;20,0;FedEx Corp.
+Fortis Inc.;27,8;Fortis, Inc.
+GLOBAL WATER RESOURCES, INC.;44,8;Global Water Resources, Inc.
+Global Payments Inc;20,9;Global Payments, Inc.
+Global Payments Inc.;20,9;Global Payments, Inc.
+Gogo Inc.;27,7;Gogo, Inc.
+Gray Television Inc.;17,6;Gray Television, Inc.
+HudBay Minerals Inc.;28,5;Hudbay Minerals, Inc.
+ICON Plc;10,4;ICON plc
+International Seaways, Inc.;40,6;International Seaways, Inc.
+Iron Mountain US Holdings, Inc.;14,5;Iron Mountain, Inc.
+Kaiser Aluminum Corp.;29,8;Kaiser Aluminum Corp.
+Kronos Inc.;24,8;Kronos Worldwide, Inc.
+Lannett Company, Inc.;30,7;Lannett Co., Inc.
+Lennar Corp.;25,4;Lennar Corp.
+Medpace Holdings, Inc.;16,2;Medpace Holdings, Inc.
+NEOGENOMICS, INC.;19,7;NeoGenomics, Inc.
+Newell Brands;13,7;Newell Brands, Inc.
+Nordstrom Inc.;20,6;Nordstrom, Inc.
+Nvidia Corporation;13,6;NVIDIA Corp.
+Oceaneering International, Inc.;33,6;Oceaneering International, Inc.
+PDC Energy, Inc.;47,4;PDC Energy, Inc.
+PTC Inc.;18,9;PTC, Inc.
+PartnerRe Ltd.;30,1;PartnerRe Ltd.
+Peabody Energy Corporation (DIP);51,4;Peabody Energy Corp.
+Qorvo, Inc.;28,5;Qorvo, Inc.
+SPX FLOW, Inc.;;
+Signet Jewelers Ltd;14,5;Signet Jewelers Ltd.
+SiteOne Landscape Supply Holding, LLC;17,8;SiteOne Landscape Supply, Inc.
+Stryker Corp.;28,3;Stryker Corp.
+TAL International Group Inc.;;
+Tecnoglass Inc.;;
+Tesla, Inc.;25,2;Tesla, Inc.
+The Chefs' Warehouse;20,8;The Chefs' Warehouse, Inc.
+Thermo Fisher Scientific (Finance I) B.V.;13,6;Thermo Fisher Scientific, Inc.
+Viacom Inc.;15,0;Paramount Global
+Welbilt, Inc.;;
+Westlake Chemical Corp.;29,2;Westlake Corp.
+Xerox Corp.;16,0;Xerox Holdings Corp.
+YPF Sociedad Anonima;33,0;YPF SA
+iHeartCommunications Inc.;15,7;iHeartMedia, Inc.
