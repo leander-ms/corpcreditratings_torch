@@ -14,14 +14,6 @@ import os
 
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
-assert(torch.cuda.get_device_name(0) == 'NVIDIA GeForce RTX 3070 Ti Laptop GPU')
-
-# Check if GPU is available
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-device = 'cpu'
-print(f"Model will run on {device}.")
-
-torch.manual_seed(42)
 
 def translate_features(feature_list):
     columns_german = {
@@ -155,6 +147,15 @@ class EarlyStopper:
 
 
 if __name__ == '__main__':
+    # assert torch.cuda.get_device_name(0) == 'NVIDIA GeForce RTX 3070 Ti Laptop GPU'
+
+    # Check if GPU is available
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = 'cpu'
+    print(f"Model will run on {device}.")
+
+    torch.manual_seed(42)
+
     cols_to_keep = ['Current Ratio',
     'Long-term Debt / Capital', 'Debt/Equity Ratio', 'Gross Margin',
     'EBIT Margin', 'Asset Turnover',
