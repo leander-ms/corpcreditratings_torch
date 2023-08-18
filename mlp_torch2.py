@@ -125,7 +125,7 @@ class EarlyStopper:
 
 
 if __name__ == '__main__':
-    assert torch.cuda.get_device_name(0) == 'NVIDIA GeForce RTX 3070 Ti Laptop GPU'
+    # assert torch.cuda.get_device_name(0) == 'NVIDIA GeForce RTX 3070 Ti Laptop GPU'
 
     # Check if GPU is available
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
