@@ -11,6 +11,7 @@ from sklearn.inspection import permutation_importance
 from sklearn.base import BaseEstimator, ClassifierMixin
 import tqdm
 import os
+import joblib
 
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
@@ -97,6 +98,8 @@ def import_data():
     encoder = LabelEncoder()
     df['Sector'] = encoder.fit_transform(df.Sector.values)
 
+    joblib.dump(encoder, os.path.join('torch_weights', 'model2_encoder.pkl'))
+
     df['Rating Category Encoded'] = df['Rating Category'].apply(lambda x: ['Sehr Hohe Bonität', 'Gute Bonität', 
                                                                         'Befriedigende Bonität', 'Angespannte Bonität', 
                                                                         'Mangelhafte Bonität', 'Ungenügende Bonität'].index(x))
@@ -113,7 +116,7 @@ class RatingsNet(nn.Module):
         self.output = nn.Linear(64, 6)
         self.tanh = nn.Tanh()
         self.softmax = nn.LogSoftmax(dim=1)
-        self.dropout = nn.Dropout(0.07, inplace=False)
+        self.dropout = nn.Dropout(0.08, inplace=False)
 
     def forward(self, x):
         x = self.tanh(self.hidden1(x))
@@ -172,6 +175,7 @@ if __name__ == '__main__':
 
     scaler = StandardScaler()
     X = scaler.fit_transform(X)
+    joblib.dump(scaler, os.path.join('torch_weights', 'model2_scaler.pkl'))
 
     X = np.append(X, df['Sector'].to_numpy().reshape(-1, 1), axis=1)
 
