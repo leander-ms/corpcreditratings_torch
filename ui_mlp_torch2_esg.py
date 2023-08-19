@@ -33,28 +33,15 @@ def get_sector_mean(sector):
     }[sector]
 
 
-def predict_rating(model, scaler, encoder, current_ratio, debt_capital, debt_equity,
-                   gross_margin, ebit_margin, asset_turnover, return_equity, return_tangible_equity,
-                   operating_cf_pershare, fcf_pershare, esg_rating, sector):
-    input_data = pd.DataFrame({
-        'Current Ratio': [current_ratio],
-        'Long-term Debt / Capital': [debt_capital],
-        'Debt/Equity Ratio': [debt_equity],
-        'Gross Margin': [gross_margin],
-        'EBIT Margin': [ebit_margin],
-        'Asset Turnover': [asset_turnover],
-        'ROE - Return On Equity': [return_equity],
-        'Return On Tangible Equity': [return_tangible_equity],
-        'Operating Cash Flow Per Share': [operating_cf_pershare],
-        'Free Cash Flow Per Share': [fcf_pershare],
-        'ESG Rating': [esg_rating],
-        'ESG to Sector Average': [esg_rating/get_sector_mean(sector)],
-        'Sector': [sector]
-    })
+def predict_rating(model, scaler, encoder, features):
+    input_data = pd.DataFrame()
+
+    for header, value in features.items():
+        input_data[header] = [value]
     
     input_data_cont = scaler.transform(input_data.iloc[:, 0:12])
     input_data_cat = encoder.transform(input_data.iloc[:, 12:13])
-    input_data_complete = np.append(input_data_cont, input_data_cat.reshape(-1, 1).ravel(), axis=1)
+    input_data_complete = np.append(input_data_cont, input_data_cat.reshape(-1, 1), axis=1)
     predicted_rating_index = model(torch.tensor(input_data_complete, dtype=torch.float32))
     predicted_rating_index = np.argmax(predicted_rating_index.detach().numpy(), axis=1)
 
@@ -73,18 +60,6 @@ def features_to_dict(**kwargs):
 
     return feature_dict
 
-
-
-def run_model(features_dict):
-    model, scaler, encoder = load_model_and_scaler()
-    predicted_rating = predict_rating(model=model, scaler=scaler, encoder=encoder, 
-                                      current_ratio=features_dict['current_ratio'], debt_capital=features_dict['debt_capital'],
-                                      debt_equity=features_dict['debt_equity'], gross_margin=features_dict['gross_margin'],
-                                      ebit_margin=features_dict['ebit_margin'], asset_turnover=features_dict['asset_turnover'],
-                                      return_equity=features_dict['return_equity'], return_tangible_equity=features_dict['return_tangible_equity'],
-                                      operating_cf_pershare=features_dict['operating_cf_pershare'], fcf_pershare=features_dict['fcf_pershare'],
-                                      esg_rating=features_dict['esg_rating'], sector=features_dict['sector'])
-    predicted_rating_var.set(predicted_rating)
 
 if __name__ == '__main__':
     window = tk.Tk()
@@ -169,21 +144,25 @@ if __name__ == '__main__':
 
     # Button to execute prediction
     def on_predict():
+        model, scaler, encoder = load_model_and_scaler()
         features = {
-            'current_ratio': float(current_ratio_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'debt_capital': float(debt_capital_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'debt_equity': float(debt_equity_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'gross_margin': float(gross_margin_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'ebit_margin': float(ebit_margin_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'asset_turnover': float(asset_turnover_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'return_equity': float(return_equity_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'return_tangible_equity': float(return_tangible_equity_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'operating_cf_pershare': float(operating_cf_pershare_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'fcf_pershare': float(fcf_pershare_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'esg_rating': float(esg_rating_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'sector': sector_var.get()
+            'Current Ratio': float(current_ratio_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Long-term Debt / Capital': float(debt_capital_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Debt/Equity Ratio': float(debt_equity_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Gross Margin': float(gross_margin_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'EBIT Margin': float(ebit_margin_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Asset Turnover': float(asset_turnover_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'ROE - Return On Equity': float(return_equity_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Return On Tangible Equity': float(return_tangible_equity_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Operating Cash Flow Per Share': float(operating_cf_pershare_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'Free Cash Flow Per Share': float(fcf_pershare_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'ESG Rating': float(esg_rating_var.get().replace(',', '.').rstrip('\n').strip('')),
+            'ESG to Sector Average': float(esg_rating_var.get().replace(',', '.'))/float(get_sector_mean(sector_var.get())),
+            'Sector': sector_var.get()
         }
-        run_model(features)
+
+        predicted_rating = predict_rating(model, scaler, encoder, features)
+        predicted_rating_var.set(predicted_rating)
 
     predict_button = tk.Button(window, text="Predict Rating", command=on_predict)
     predict_button.pack(pady=20)
