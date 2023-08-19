@@ -1,6 +1,6 @@
 import tkinter as tk
 import pandas as pd
-from torch import tensor, load, float32
+import torch
 import joblib
 import os
 from mlp_torch2_esg import RatingsNet
@@ -9,7 +9,7 @@ import numpy as np
 
 def load_model_and_scaler():
     model = RatingsNet(input_shape=13)
-    model.load_state_dict(load(os.path.join('torch_weights', 'best_weights_esg.pt')))
+    model.load_state_dict(torch.load(os.path.join('torch_weights', 'best_weights_esg.pt')))
     scaler = joblib.load(os.path.join('torch_weights', 'model2_scaler.pkl'))
     encoder = joblib.load(os.path.join('torch_weights', 'model2_encoder.pkl'))
 
@@ -45,7 +45,10 @@ def predict_rating(model, scaler, encoder, features):
     input_data_cont = scaler.transform(input_data.iloc[:, 0:12])
     input_data_cat = encoder.transform(input_data.iloc[:, 12:13])
     input_data_complete = np.append(input_data_cont, input_data_cat.reshape(-1, 1), axis=1)
-    predicted_rating_index = model(tensor(input_data_complete, dtype=float32))
+
+    model.eval()
+    with torch.no_grad():
+        predicted_rating_index = model(torch.tensor(input_data_complete, dtype=torch.float32))
     predicted_rating_index = np.argmax(predicted_rating_index.detach().numpy(), axis=1)
 
     translate_rating_index = {0: 'Sehr Hohe Bonität', 1: 'Gute Bonität', 2: 'Befriedigende Bonität', 3: 'Angespannte Bonität', 4: 'Mangelhafte Bonität', 5: 'Ungenügende Bonität'}
