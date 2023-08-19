@@ -35,10 +35,13 @@ def get_sector_mean(sector):
 
 def predict_rating(model, scaler, encoder, features):
     input_data = pd.DataFrame()
-
+    
     for header, value in features.items():
         input_data[header] = [value]
     
+    esg_to_sector = features.get('ESG Rating')/get_sector_mean(features.get('Sector'))
+    input_data.insert(11, 'ESG to Sector Average', [esg_to_sector])
+
     input_data_cont = scaler.transform(input_data.iloc[:, 0:12])
     input_data_cat = encoder.transform(input_data.iloc[:, 12:13])
     input_data_complete = np.append(input_data_cont, input_data_cat.reshape(-1, 1), axis=1)
@@ -157,7 +160,6 @@ if __name__ == '__main__':
             'Operating Cash Flow Per Share': float(operating_cf_pershare_var.get().replace(',', '.').rstrip('\n').strip('')),
             'Free Cash Flow Per Share': float(fcf_pershare_var.get().replace(',', '.').rstrip('\n').strip('')),
             'ESG Rating': float(esg_rating_var.get().replace(',', '.').rstrip('\n').strip('')),
-            'ESG to Sector Average': float(esg_rating_var.get().replace(',', '.'))/float(get_sector_mean(sector_var.get())),
             'Sector': sector_var.get()
         }
 
