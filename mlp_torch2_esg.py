@@ -237,11 +237,12 @@ if __name__ == '__main__':
 
 
         model.eval()
-        y_pred = model(X_test)
-        ce = loss_fn(y_pred, y_test)
-        acc = (torch.argmax(y_pred, 1) == torch.argmax(y_test, 1)).float().mean()
-        ce = float(ce)
-        acc = float(acc)
+        with torch.no_grad():
+            y_pred = model(X_test)
+            ce = loss_fn(y_pred, y_test)
+            acc = (torch.argmax(y_pred, 1) == torch.argmax(y_test, 1)).float().mean()
+            ce = float(ce)
+            acc = float(acc)
 
         train_loss_hist.append(np.mean(epoch_loss))
         train_acc_hist.append(np.mean(epoch_acc))
