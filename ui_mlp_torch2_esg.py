@@ -49,7 +49,7 @@ def predict_rating(model, scaler, encoder, features):
     model.eval()
     with torch.no_grad():
         predicted_rating_index = model(torch.tensor(input_data_complete, dtype=torch.float32))
-    predicted_rating_index = np.argmax(predicted_rating_index.detach().numpy(), axis=1)
+        predicted_rating_index = np.argmax(predicted_rating_index.detach().numpy(), axis=1)
 
     translate_rating_index = {0: 'Sehr Hohe Bonität', 1: 'Gute Bonität', 2: 'Befriedigende Bonität', 3: 'Angespannte Bonität', 4: 'Mangelhafte Bonität', 5: 'Ungenügende Bonität'}
 
@@ -82,13 +82,13 @@ if __name__ == '__main__':
     current_ratio_entry.grid(row=0, column=1, padx=5, pady=5)
 
 
-    debt_capital_label = tk.Label(inputs_frame, text='Debt Capital:')
+    debt_capital_label = tk.Label(inputs_frame, text='Long-term Debt/Capital:')
     debt_capital_label.grid(row=1, column=0, padx=5, pady=5)
     debt_capital_var = tk.StringVar()
     debt_capital_entry = tk.Entry(inputs_frame, textvariable=debt_capital_var)
     debt_capital_entry.grid(row=1, column=1, padx=5, pady=5)
 
-    debt_equity_label = tk.Label(inputs_frame, text='Debt Equity:')
+    debt_equity_label = tk.Label(inputs_frame, text='Debt/Equity Ratio:')
     debt_equity_label.grid(row=2, column=0, padx=5, pady=5)
     debt_equity_var = tk.StringVar()
     debt_equity_entry = tk.Entry(inputs_frame, textvariable=debt_equity_var)
