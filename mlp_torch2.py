@@ -20,9 +20,10 @@ def translate_features(feature_list):
     columns_german = {
     'Gross Margin': 'Rohertragsmarge', 'Current Ratio': 'Liquidität 3. Grades', 'Long-term Debt / Capital': 'Langfristige Schulden/Kapital', 'Debt/Equity Ratio': 'Verschuldungsgrad',
     'EBIT Margin': 'EBIT-Marge', 'Asset Turnover': 'Kapitalumschlag', 'ROE - Return On Equity': 'Eigenkapitalrendite', 'Return On Tangible Equity': 'RoTE',
-        'Operating Cash Flow Per Share': 'Cashflow pro Aktie', 'Free Cash Flow Per Share': 'Freier Cashflow je Aktie', 'Sector': 'Industriesektor'
+        'Operating Cash Flow Per Share': 'Operativer Cashflow pro Aktie', 'Free Cash Flow Per Share': 'Freier Cashflow je Aktie', 'Sector': 'Industriesektor', 'ESG Rating': 'ESG',
+        'ESG to Sector Average': 'ESG-Score zu Sektordurchschnitt'
         }
-    translated_list = np.vectorize(columns_german.get)(np.array(feature_list)).tolist()
+    translated_list = [columns_german.get(item, item) for item in feature_list]
 
     return translated_list
 

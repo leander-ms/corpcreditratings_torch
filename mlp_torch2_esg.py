@@ -23,7 +23,7 @@ def translate_features(feature_list):
         'Operating Cash Flow Per Share': 'Operativer Cashflow pro Aktie', 'Free Cash Flow Per Share': 'Freier Cashflow je Aktie', 'Sector': 'Industriesektor', 'ESG Rating': 'ESG',
         'ESG to Sector Average': 'ESG-Score zu Sektordurchschnitt'
         }
-    translated_list = np.vectorize(columns_german.get)(np.array(feature_list)).tolist()
+    translated_list = [columns_german.get(item, item) for item in feature_list]
 
     return translated_list
 
