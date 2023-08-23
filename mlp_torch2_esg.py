@@ -58,7 +58,7 @@ def import_data():
     df_creditratings['index']=df_creditratings.index
     # df_creditratings = df_creditratings.loc[df_creditratings['Rating Agency'] == "Standard & Poor's Ratings Services"]
 
-    df_esg = pd.read_csv(r'C:\Users\leand\Desktop\Python_WS\svm_ccr\input\corporate_esg.csv', sep=';', decimal=',')
+    df_esg = pd.read_csv(os.path.join('input', 'corporate_esg.csv'), sep=';', decimal=',')
 
     df = df_creditratings.merge(df_esg, left_on='Corporation', right_on='Company', how='left')
 
