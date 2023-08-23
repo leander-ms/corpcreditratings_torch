@@ -94,13 +94,13 @@ if __name__ == '__main__':
     debt_equity_entry = tk.Entry(inputs_frame, textvariable=debt_equity_var)
     debt_equity_entry.grid(row=2, column=1, padx=5, pady=5)
 
-    gross_margin_label = tk.Label(inputs_frame, text='Gross Margin:')
+    gross_margin_label = tk.Label(inputs_frame, text='Gross Margin (%):')
     gross_margin_label.grid(row=3, column=0, padx=5, pady=5)
     gross_margin_var = tk.StringVar()
     gross_margin_entry = tk.Entry(inputs_frame, textvariable=gross_margin_var)
     gross_margin_entry.grid(row=3, column=1, padx=5, pady=5)
 
-    ebit_margin_label = tk.Label(inputs_frame, text='EBIT Margin:')
+    ebit_margin_label = tk.Label(inputs_frame, text='EBIT Margin (%):')
     ebit_margin_label.grid(row=4, column=0, padx=5, pady=5)
     ebit_margin_var = tk.StringVar()
     ebit_margin_entry = tk.Entry(inputs_frame, textvariable=ebit_margin_var)
@@ -112,25 +112,25 @@ if __name__ == '__main__':
     asset_turnover_entry = tk.Entry(inputs_frame, textvariable=asset_turnover_var)
     asset_turnover_entry.grid(row=5, column=1, padx=5, pady=5)
 
-    return_equity_label = tk.Label(inputs_frame, text='Return on Equity:')
+    return_equity_label = tk.Label(inputs_frame, text='Return on Equity (%):')
     return_equity_label.grid(row=6, column=0, padx=5, pady=5)
     return_equity_var = tk.StringVar()
     return_equity_entry = tk.Entry(inputs_frame, textvariable=return_equity_var)
     return_equity_entry.grid(row=6, column=1, padx=5, pady=5)
 
-    return_tangible_equity_label = tk.Label(inputs_frame, text='Return on Tangible Equity:')
+    return_tangible_equity_label = tk.Label(inputs_frame, text='Return on Tangible Equity (%):')
     return_tangible_equity_label.grid(row=7, column=0, padx=5, pady=5)
     return_tangible_equity_var = tk.StringVar()
     return_tangible_equity_entry = tk.Entry(inputs_frame, textvariable=return_tangible_equity_var)
     return_tangible_equity_entry.grid(row=7, column=1, padx=5, pady=5)
 
-    operating_cf_pershare_label = tk.Label(inputs_frame, text='Operating CF Per Share:')
+    operating_cf_pershare_label = tk.Label(inputs_frame, text='Operating CF Per Share ($):')
     operating_cf_pershare_label.grid(row=8, column=0, padx=5, pady=5)
     operating_cf_pershare_var = tk.StringVar()
     operating_cf_pershare_entry = tk.Entry(inputs_frame, textvariable=operating_cf_pershare_var)
     operating_cf_pershare_entry.grid(row=8, column=1, padx=5, pady=5)
 
-    fcf_pershare_label = tk.Label(inputs_frame, text='Free Cash Flow Per Share:')
+    fcf_pershare_label = tk.Label(inputs_frame, text='Free Cash Flow Per Share ($):')
     fcf_pershare_label.grid(row=9, column=0, padx=5, pady=5)
     fcf_pershare_var = tk.StringVar()
     fcf_pershare_entry = tk.Entry(inputs_frame, textvariable=fcf_pershare_var)
@@ -143,10 +143,10 @@ if __name__ == '__main__':
     esg_rating_entry.grid(row=10, column=1, padx=5, pady=5)
 
     sector_label = tk.Label(inputs_frame, text='Sector:')
-    sector_label.grid(row=12, column=0, padx=5, pady=5)
+    sector_label.grid(row=11, column=0, padx=5, pady=5)
     sector_var = tk.StringVar()
     sector_entry = tk.Entry(inputs_frame, textvariable=sector_var)
-    sector_entry.grid(row=12, column=1, padx=5, pady=5)
+    sector_entry.grid(row=11, column=1, padx=5, pady=5)
 
     # Button to execute prediction
     def on_predict():
