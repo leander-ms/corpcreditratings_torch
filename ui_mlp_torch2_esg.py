@@ -49,13 +49,15 @@ def predict_rating(model, scaler, encoder, features):
     model.eval()
     with torch.no_grad():
         predicted_rating_index = model(torch.tensor(input_data_complete, dtype=torch.float32))
-        predicted_rating_index = np.argmax(predicted_rating_index.detach().numpy(), axis=1)
+        predicted_rating_act = torch.argmax(predicted_rating_index, axis=1)
+        probs = torch.nn.Softmax(dim=1)
+        predicted_rating_prob = str(round(torch.max(probs(predicted_rating_index), axis=1)[0].item(), 4)*100) + '%'
 
     translate_rating_index = {0: 'Sehr Hohe Bonität', 1: 'Gute Bonität', 2: 'Befriedigende Bonität', 3: 'Angespannte Bonität', 4: 'Mangelhafte Bonität', 5: 'Ungenügende Bonität'}
 
-    predicted_rating = translate_rating_index.get(predicted_rating_index[0])
+    predicted_rating = translate_rating_index.get(predicted_rating_act.item())
 
-    return predicted_rating
+    return predicted_rating, predicted_rating_prob
 
 
 def features_to_dict(**kwargs):
@@ -166,15 +168,19 @@ if __name__ == '__main__':
             'Sector': sector_var.get()
         }
 
-        predicted_rating = predict_rating(model, scaler, encoder, features)
+        predicted_rating, predicted_rating_prob = predict_rating(model, scaler, encoder, features)
         predicted_rating_var.set(predicted_rating)
+        predicted_rating_prob_var.set(predicted_rating_prob)
 
     predict_button = tk.Button(window, text="Predict Rating", command=on_predict)
     predict_button.pack(pady=20)
 
     # Label to display the prediction
     predicted_rating_var = tk.StringVar()
+    predicted_rating_prob_var = tk.StringVar()
     predicted_rating_label = tk.Label(window, textvariable=predicted_rating_var)
+    predicted_rating_prob_label = tk.Label(window, textvariable=predicted_rating_prob_var)
     predicted_rating_label.pack(pady=20)
+    predicted_rating_prob_label.pack(pady=20)
 
     window.mainloop()
