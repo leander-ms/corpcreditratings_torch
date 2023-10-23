@@ -6,6 +6,25 @@ import os
 from mlp_torch2_esg import RatingsNet
 import numpy as np
 
+os.environ['TRANSLATE'] = '1'
+
+
+def translate_features(feature):
+    columns_german = {
+    'Gross Margin (%)': 'Rohertragsmarge (%)', 'Current Ratio': 'Liquidität 3. Grades', 'Long-term Debt / Capital': 'Langfristige Schulden/Kapital', 'Debt/Equity Ratio': 'Verschuldungsgrad',
+    'EBIT Margin (%)': 'EBIT-Marge (%)', 'Asset Turnover': 'Kapitalumschlag', 'Return on Equity (%)': 'Eigenkapitalrendite (%)', 'Return on Tangible Equity (%)': 'RoTE (%)',
+        'Operating CF Per Share ($)': 'Operativer Cashflow pro Aktie ($)', 'Free Cash Flow Per Share ($)': 'Freier Cashflow je Aktie ($)', 'Sector': 'Industriesektor', 'ESG Rating': 'ESG',
+        'ESG to Sector Average': 'ESG-Score zu Sektordurchschnitt', 'Predict Rating Class': 'Vorhersage Ratingklasse', 'Rating Class': 'Ratingklasse', 'Predict Rating': 'Rating Anwendung'
+        }
+    
+    if os.environ['TRANSLATE'] == '1':
+        translated = columns_german.get(feature, feature)
+        return translated
+    
+    else:
+        return feature
+    
+
 
 def load_model_and_scaler():
     model = RatingsNet(input_shape=13)
@@ -71,12 +90,12 @@ def features_to_dict(**kwargs):
 
 if __name__ == '__main__':
     window = tk.Tk()
-    window.title('Predict Rating')
+    window.title(translate_features('Predict Rating'))
 
     inputs_frame = tk.Frame(window)
     inputs_frame.pack(pady=20)
 
-    current_ratio_label = tk.Label(inputs_frame, text='Current Ratio:')
+    current_ratio_label = tk.Label(inputs_frame, text=translate_features('Current Ratio'))
     current_ratio_label.grid(row=0, column=0, padx=5, pady=5)
 
     current_ratio_var = tk.StringVar()
@@ -84,67 +103,67 @@ if __name__ == '__main__':
     current_ratio_entry.grid(row=0, column=1, padx=5, pady=5)
 
 
-    debt_capital_label = tk.Label(inputs_frame, text='Long-term Debt/Capital:')
+    debt_capital_label = tk.Label(inputs_frame, text=translate_features('Long-term Debt/Capital'))
     debt_capital_label.grid(row=1, column=0, padx=5, pady=5)
     debt_capital_var = tk.StringVar()
     debt_capital_entry = tk.Entry(inputs_frame, textvariable=debt_capital_var)
     debt_capital_entry.grid(row=1, column=1, padx=5, pady=5)
 
-    debt_equity_label = tk.Label(inputs_frame, text='Debt/Equity Ratio:')
+    debt_equity_label = tk.Label(inputs_frame, text=translate_features('Debt/Equity Ratio'))
     debt_equity_label.grid(row=2, column=0, padx=5, pady=5)
     debt_equity_var = tk.StringVar()
     debt_equity_entry = tk.Entry(inputs_frame, textvariable=debt_equity_var)
     debt_equity_entry.grid(row=2, column=1, padx=5, pady=5)
 
-    gross_margin_label = tk.Label(inputs_frame, text='Gross Margin (%):')
+    gross_margin_label = tk.Label(inputs_frame, text=translate_features('Gross Margin (%)'))
     gross_margin_label.grid(row=3, column=0, padx=5, pady=5)
     gross_margin_var = tk.StringVar()
     gross_margin_entry = tk.Entry(inputs_frame, textvariable=gross_margin_var)
     gross_margin_entry.grid(row=3, column=1, padx=5, pady=5)
 
-    ebit_margin_label = tk.Label(inputs_frame, text='EBIT Margin (%):')
+    ebit_margin_label = tk.Label(inputs_frame, text=translate_features('EBIT Margin (%)'))
     ebit_margin_label.grid(row=4, column=0, padx=5, pady=5)
     ebit_margin_var = tk.StringVar()
     ebit_margin_entry = tk.Entry(inputs_frame, textvariable=ebit_margin_var)
     ebit_margin_entry.grid(row=4, column=1, padx=5, pady=5)
 
-    asset_turnover_label = tk.Label(inputs_frame, text='Asset Turnover:')
+    asset_turnover_label = tk.Label(inputs_frame, text=translate_features('Asset Turnover'))
     asset_turnover_label.grid(row=5, column=0, padx=5, pady=5)
     asset_turnover_var = tk.StringVar()
     asset_turnover_entry = tk.Entry(inputs_frame, textvariable=asset_turnover_var)
     asset_turnover_entry.grid(row=5, column=1, padx=5, pady=5)
 
-    return_equity_label = tk.Label(inputs_frame, text='Return on Equity (%):')
+    return_equity_label = tk.Label(inputs_frame, text=translate_features('Return on Equity (%)'))
     return_equity_label.grid(row=6, column=0, padx=5, pady=5)
     return_equity_var = tk.StringVar()
     return_equity_entry = tk.Entry(inputs_frame, textvariable=return_equity_var)
     return_equity_entry.grid(row=6, column=1, padx=5, pady=5)
 
-    return_tangible_equity_label = tk.Label(inputs_frame, text='Return on Tangible Equity (%):')
+    return_tangible_equity_label = tk.Label(inputs_frame, text=translate_features('Return on Tangible Equity (%)'))
     return_tangible_equity_label.grid(row=7, column=0, padx=5, pady=5)
     return_tangible_equity_var = tk.StringVar()
     return_tangible_equity_entry = tk.Entry(inputs_frame, textvariable=return_tangible_equity_var)
     return_tangible_equity_entry.grid(row=7, column=1, padx=5, pady=5)
 
-    operating_cf_pershare_label = tk.Label(inputs_frame, text='Operating CF Per Share ($):')
+    operating_cf_pershare_label = tk.Label(inputs_frame, text=translate_features('Operating CF Per Share ($)'))
     operating_cf_pershare_label.grid(row=8, column=0, padx=5, pady=5)
     operating_cf_pershare_var = tk.StringVar()
     operating_cf_pershare_entry = tk.Entry(inputs_frame, textvariable=operating_cf_pershare_var)
     operating_cf_pershare_entry.grid(row=8, column=1, padx=5, pady=5)
 
-    fcf_pershare_label = tk.Label(inputs_frame, text='Free Cash Flow Per Share ($):')
+    fcf_pershare_label = tk.Label(inputs_frame, text=translate_features('Free Cash Flow Per Share ($)'))
     fcf_pershare_label.grid(row=9, column=0, padx=5, pady=5)
     fcf_pershare_var = tk.StringVar()
     fcf_pershare_entry = tk.Entry(inputs_frame, textvariable=fcf_pershare_var)
     fcf_pershare_entry.grid(row=9, column=1, padx=5, pady=5)
 
-    esg_rating_label = tk.Label(inputs_frame, text='ESG Rating:')
+    esg_rating_label = tk.Label(inputs_frame, text=translate_features('ESG Rating'))
     esg_rating_label.grid(row=10, column=0, padx=5, pady=5)
     esg_rating_var = tk.StringVar()
     esg_rating_entry = tk.Entry(inputs_frame, textvariable=esg_rating_var)
     esg_rating_entry.grid(row=10, column=1, padx=5, pady=5)
 
-    sector_label = tk.Label(inputs_frame, text='Sector:')
+    sector_label = tk.Label(inputs_frame, text=translate_features('Sector'))
     sector_label.grid(row=11, column=0, padx=5, pady=5)
     sector_var = tk.StringVar()
     sector_entry = tk.Entry(inputs_frame, textvariable=sector_var)
@@ -169,10 +188,10 @@ if __name__ == '__main__':
         }
 
         predicted_rating, predicted_rating_prob = predict_rating(model, scaler, encoder, features)
-        predicted_rating_var.set(predicted_rating)
-        predicted_rating_prob_var.set(predicted_rating_prob)
+        predicted_rating_var.set(f'{translate_features("Rating Class")}: {predicted_rating}')
+        predicted_rating_prob_var.set(f'Softmax-Output: {predicted_rating_prob}')
 
-    predict_button = tk.Button(window, text="Predict Rating", command=on_predict)
+    predict_button = tk.Button(window, text=translate_features("Predict Rating Class"), command=on_predict)
     predict_button.pack(pady=20)
 
     # Label to display the prediction
@@ -180,7 +199,7 @@ if __name__ == '__main__':
     predicted_rating_prob_var = tk.StringVar()
     predicted_rating_label = tk.Label(window, textvariable=predicted_rating_var)
     predicted_rating_prob_label = tk.Label(window, textvariable=predicted_rating_prob_var)
-    predicted_rating_label.pack(pady=20)
-    predicted_rating_prob_label.pack(pady=20)
+    predicted_rating_label.pack(pady=10)
+    predicted_rating_prob_label.pack(pady=10)
 
     window.mainloop()
